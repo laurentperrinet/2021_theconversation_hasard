@@ -5,7 +5,7 @@
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://laurentperrinet.github.io/2021_theconversation_hasard/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/laurentperrinet/2021_theconversation_hasard/workflows/Manubot/badge.svg)](https://github.com/laurentperrinet/2021_theconversation_hasard/actions)
-[![Travis Build Status](https://travis-ci.com/laurentperrinet/2021_theconversation_hasard.svg?branch=main)](https://travis-ci.com/laurentperrinet/2021_theconversation_hasard)
+
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
 ## Manuscript description
