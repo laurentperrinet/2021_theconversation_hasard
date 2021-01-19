@@ -1,49 +1,44 @@
 ---
-title: Manuscript Title
+title: Les jeux du cerveau et du hasard
 keywords:
-- markdown
-- publishing
-- manubot
-lang: en-US
+- Vision
+- Hasard
+- Perception
+lang: fr
 date-meta: '2021-01-19'
 author-meta:
-- John Doe
-- Jane Roe
+- Laurent U Perrinet
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Les jeux du cerveau et du hasard" />
+  <meta name="citation_title" content="Les jeux du cerveau et du hasard" />
+  <meta property="og:title" content="Les jeux du cerveau et du hasard" />
+  <meta property="twitter:title" content="Les jeux du cerveau et du hasard" />
   <meta name="dc.date" content="2021-01-19" />
   <meta name="citation_publication_date" content="2021-01-19" />
-  <meta name="dc.language" content="en-US" />
-  <meta name="citation_language" content="en-US" />
+  <meta name="dc.language" content="fr" />
+  <meta name="citation_language" content="fr" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Laurent U Perrinet" />
+  <meta name="citation_author_institution" content="Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université" />
+  <meta name="citation_author_orcid" content="0000-0002-9536-010X" />
+  <meta name="twitter:creator" content="@laurentperrinet" />
   <link rel="canonical" href="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta property="og:url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta property="twitter:url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/cb1c71d25f45ec7e3f414d8b6e571c6e5a430166/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/cb1c71d25f45ec7e3f414d8b6e571c6e5a430166/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/cb1c71d25f45ec7e3f414d8b6e571c6e5a430166/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/2c343bc5474c4197e982db35c72c4e2eab7ce3fb/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/2c343bc5474c4197e982db35c72c4e2eab7ce3fb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/2c343bc5474c4197e982db35c72c4e2eab7ce3fb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/cb1c71d25f45ec7e3f414d8b6e571c6e5a430166/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/2c343bc5474c4197e982db35c72c4e2eab7ce3fb/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@cb1c71d](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/cb1c71d25f45ec7e3f414d8b6e571c6e5a430166)
+from [laurentperrinet/2021_theconversation_hasard@2c343bc](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/2c343bc5474c4197e982db35c72c4e2eab7ce3fb)
 on January 19, 2021.
 </em></small>
 
@@ -75,30 +70,57 @@ on January 19, 2021.
 
 
 
-+ **John Doe**<br>
++ **Laurent U Perrinet**
+  · [https://laurentperrinet.github.io/](https://laurentperrinet.github.io/)<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-9536-010X](https://orcid.org/0000-0002-9536-010X)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [laurentperrinet](https://github.com/laurentperrinet)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [laurentperrinet](https://twitter.com/laurentperrinet)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
+     · Funded by ANR project "Horizontal-V1" N°ANR-17-CE37-0006.; ANR project "AgileNeuroBot" N°ANR-20-CE23-0021.
   </small>
 
 
 
 ## Abstract {.page_break_before}
+
+La pièce de théâtre des jeux de l’amour et du hasard Beaumarchais donne au hasard le rôle d’un personnage qui guide le destin des personnages... Dans la vie quotidienne on ne peut s’empêcher d’attribuer un esprit malin le fait que la tartine tombe du côté de la confiture ou alors que la prise USB n’est pas dans le bon sens que le cable... Est-ce que le hasard est d’une nature différente du reste des processus qui gouvernent les lois de la nature ?
+
+
+
+Pourquoi mon cerveau peut-il se tromper?
+
+3500-4000 mots
+
+
+
+Le battement d’ailes d’un pangolin en Chine peut provoquer une épidémie À Rio
+
+
+Nous entretenons une relation privilégiée avec les jeux que ce soit l’aider les cartes ou les jeux de stratégie comme les échecs points ils appliquent tous à certains niveaux de difficultés qui est lié à l’aléatoire rappeler que l’aléatoire viens d’alerte.
+D’où vient cette engouement voire d’addiction et au fait que finalement ses formes de difficulté soit lié à du plaisir ? ￼￼ essayer un plaisir intellectuel qui fait partie d’une forme d’apprentissage ?
+
+Pourtant l’esprit humain semble plus adapté au steppe et au savane dans lequel il a fait ses premiers pas plutôt que le monde logique du monde moderne.
+En témoignent les nombreux billets connectifs révélée par l’économiste￼
+Kahneman
+
+
+￼si on a longtemps cru que le hasard posséder le processus un dépendant de ce des lois de la Nature, les choses ont changé au début du XXe siècle avec une meilleure compréhension des processus que l’on dit stochastiques.
+Grâce à Poincaré on sait maintenant que le hasard n’est que la mesure de notre ignorance.
+Imaginez par exemple une expérience ou une personne dans une salle obscure reçois simplement des messages codés qui correspondent la représentation binaire de messages extérieurs comme par exemple 0000110 correspondrait au signal qu’un merle chante à l’extérieur.￼￼￼￼ selon que l’observateur connaisse ce code ou qu’il en soit totalement ignorant, il va ou non l’attribuer au hasard ou non. autre interpretation avec Cournot pour lequel le hasard n’est que le fruit du mélange de sources indépendentes. c’est l’ignorance sur l’origine des sources qui transforme le signal total du bruit.
+Le hasard est bien partie intégrante des lois de la Nature, le fruit de notre connaissance / relation intime avec la Nature.
+
+Toutefois il est justifié de traiter d’erreurs ce genre de comportement￼
+cerveau Bayesien  / teleologie / pathologies
+
+donner du bruit au cerveau (peintures Zen Etienne Rey ) / bruit = cournot - mesure de notre ignorance /  expériences avec du bruit contrôlé (motion clouds / switch ) => meilleure connaissances : résultat paradoxal (bruit => signal)
+
+
+Dans le sens où chaque progrès dans nos connaissances des neurosciences nous permet d’améliorer les algorithmes d’intelligence artificielle de telles avancées paraissent fondamental.
+￼ ￼
 
 
 
