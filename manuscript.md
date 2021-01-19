@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/2c343bc5474c4197e982db35c72c4e2eab7ce3fb/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/2c343bc5474c4197e982db35c72c4e2eab7ce3fb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/2c343bc5474c4197e982db35c72c4e2eab7ce3fb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/1d484f8b99746f77c4523901d1cc4885ea54c959/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/1d484f8b99746f77c4523901d1cc4885ea54c959/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/1d484f8b99746f77c4523901d1cc4885ea54c959/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/2c343bc5474c4197e982db35c72c4e2eab7ce3fb/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/1d484f8b99746f77c4523901d1cc4885ea54c959/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@2c343bc](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/2c343bc5474c4197e982db35c72c4e2eab7ce3fb)
+from [laurentperrinet/2021_theconversation_hasard@1d484f8](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/1d484f8b99746f77c4523901d1cc4885ea54c959)
 on January 19, 2021.
 </em></small>
 
@@ -88,40 +88,6 @@ on January 19, 2021.
 ## Abstract {.page_break_before}
 
 La pièce de théâtre des jeux de l’amour et du hasard Beaumarchais donne au hasard le rôle d’un personnage qui guide le destin des personnages... Dans la vie quotidienne on ne peut s’empêcher d’attribuer un esprit malin le fait que la tartine tombe du côté de la confiture ou alors que la prise USB n’est pas dans le bon sens que le cable... Est-ce que le hasard est d’une nature différente du reste des processus qui gouvernent les lois de la nature ?
-
-
-
-Pourquoi mon cerveau peut-il se tromper?
-
-3500-4000 mots
-
-
-
-Le battement d’ailes d’un pangolin en Chine peut provoquer une épidémie À Rio
-
-
-Nous entretenons une relation privilégiée avec les jeux que ce soit l’aider les cartes ou les jeux de stratégie comme les échecs points ils appliquent tous à certains niveaux de difficultés qui est lié à l’aléatoire rappeler que l’aléatoire viens d’alerte.
-D’où vient cette engouement voire d’addiction et au fait que finalement ses formes de difficulté soit lié à du plaisir ? ￼￼ essayer un plaisir intellectuel qui fait partie d’une forme d’apprentissage ?
-
-Pourtant l’esprit humain semble plus adapté au steppe et au savane dans lequel il a fait ses premiers pas plutôt que le monde logique du monde moderne.
-En témoignent les nombreux billets connectifs révélée par l’économiste￼
-Kahneman
-
-
-￼si on a longtemps cru que le hasard posséder le processus un dépendant de ce des lois de la Nature, les choses ont changé au début du XXe siècle avec une meilleure compréhension des processus que l’on dit stochastiques.
-Grâce à Poincaré on sait maintenant que le hasard n’est que la mesure de notre ignorance.
-Imaginez par exemple une expérience ou une personne dans une salle obscure reçois simplement des messages codés qui correspondent la représentation binaire de messages extérieurs comme par exemple 0000110 correspondrait au signal qu’un merle chante à l’extérieur.￼￼￼￼ selon que l’observateur connaisse ce code ou qu’il en soit totalement ignorant, il va ou non l’attribuer au hasard ou non. autre interpretation avec Cournot pour lequel le hasard n’est que le fruit du mélange de sources indépendentes. c’est l’ignorance sur l’origine des sources qui transforme le signal total du bruit.
-Le hasard est bien partie intégrante des lois de la Nature, le fruit de notre connaissance / relation intime avec la Nature.
-
-Toutefois il est justifié de traiter d’erreurs ce genre de comportement￼
-cerveau Bayesien  / teleologie / pathologies
-
-donner du bruit au cerveau (peintures Zen Etienne Rey ) / bruit = cournot - mesure de notre ignorance /  expériences avec du bruit contrôlé (motion clouds / switch ) => meilleure connaissances : résultat paradoxal (bruit => signal)
-
-
-Dans le sens où chaque progrès dans nos connaissances des neurosciences nous permet d’améliorer les algorithmes d’intelligence artificielle de telles avancées paraissent fondamental.
-￼ ￼
-
 
 
 
@@ -419,6 +385,47 @@ useful for *important information* - [manubot.org](https://manubot.org/)
 <i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
 useful for *warnings* - [manubot.org](https://manubot.org/)
 ]{.banner .lightred}
+
+
+
+Pourquoi mon cerveau peut-il se tromper?
+
+3500-4000 mots
+
+
+Le battement d’ailes d’un pangolin en Chine peut provoquer une épidémie À Rio
+
+
+Nous entretenons une relation privilégiée avec les jeux que ce soit l’aider les cartes ou les jeux de stratégie comme les échecs points ils appliquent tous à certains niveaux de difficultés qui est lié à l’aléatoire rappeler que l’aléatoire viens d’alerte.
+D’où vient cette engouement voire d’addiction et au fait que finalement ses formes de difficulté soit lié à du plaisir ? ￼￼ essayer un plaisir intellectuel qui fait partie d’une forme d’apprentissage ?
+
+Pourtant l’esprit humain semble plus adapté au steppe et au savane dans lequel il a fait ses premiers pas plutôt que le monde logique du monde moderne.
+En témoignent les nombreux billets connectifs révélée par l’économiste￼
+Kahneman
+
+
+￼si on a longtemps cru que le hasard posséder le processus un dépendant de ce des lois de la Nature, les choses ont changé au début du XXe siècle avec une meilleure compréhension des processus que l’on dit stochastiques.
+Grâce à Poincaré on sait maintenant que le hasard n’est que la mesure de notre ignorance.
+Imaginez par exemple une expérience ou une personne dans une salle obscure reçois simplement des messages codés qui correspondent la représentation binaire de messages extérieurs comme par exemple 0000110 correspondrait au signal qu’un merle chante à l’extérieur.￼￼￼￼ selon que l’observateur connaisse ce code ou qu’il en soit totalement ignorant, il va ou non l’attribuer au hasard ou non. autre interpretation avec Cournot pour lequel le hasard n’est que le fruit du mélange de sources indépendentes. c’est l’ignorance sur l’origine des sources qui transforme le signal total du bruit.
+Le hasard est bien partie intégrante des lois de la Nature, le fruit de notre connaissance / relation intime avec la Nature.
+
+Toutefois il est justifié de traiter d’erreurs ce genre de comportement￼
+cerveau Bayesien  / teleologie / pathologies
+
+donner du bruit au cerveau (peintures Zen Etienne Rey ) / bruit = cournot - mesure de notre ignorance /  expériences avec du bruit contrôlé (motion clouds / switch ) => meilleure connaissances : résultat paradoxal (bruit => signal)
+
+
+Dans le sens où chaque progrès dans nos connaissances des neurosciences nous permet d’améliorer les algorithmes d’intelligence artificielle de telles avancées paraissent fondamental.
+￼ ￼
+
+
+
+
+This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
+Use this template as a starting point for your manuscript.
+
+The rest of this document is a full list of formatting elements/features supported by Manubot.
+Compare the input (`.md` files in the `/content` directory) to the output you see below.
 
 
 ## References {.page_break_before}
