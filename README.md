@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Les jeux du cerveau et du hasard
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -12,8 +12,8 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+La pièce de théâtre des jeux de l’amour et du hasard Beaumarchais donne au hasard le rôle d’un personnage qui guide le destin des personnages... Dans la vie quotidienne on ne peut s’empêcher d’attribuer un esprit malin le fait que la tartine tombe du côté de la confiture ou alors que la prise USB n’est pas dans le bon sens que le cable... Est-ce que le hasard est d’une nature différente du reste des processus qui gouvernent les lois de la nature ?
+
 
 ## Manubot
 
