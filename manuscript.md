@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/2191d929a12a233347ee79c673b8f2971c10e6dd/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/2191d929a12a233347ee79c673b8f2971c10e6dd/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/2191d929a12a233347ee79c673b8f2971c10e6dd/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/cb1c71d25f45ec7e3f414d8b6e571c6e5a430166/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/cb1c71d25f45ec7e3f414d8b6e571c6e5a430166/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/cb1c71d25f45ec7e3f414d8b6e571c6e5a430166/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/2191d929a12a233347ee79c673b8f2971c10e6dd/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/cb1c71d25f45ec7e3f414d8b6e571c6e5a430166/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@2191d92](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/2191d929a12a233347ee79c673b8f2971c10e6dd)
+from [laurentperrinet/2021_theconversation_hasard@cb1c71d](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/cb1c71d25f45ec7e3f414d8b6e571c6e5a430166)
 on January 19, 2021.
 </em></small>
 
