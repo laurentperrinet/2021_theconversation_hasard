@@ -1,26 +1,25 @@
 ---
-title: "Manuscript Title"
+title: "Les jeux du cerveau et du hasard"
 keywords:
-  - markdown
-  - publishing
-  - manubot
-lang: en-US
+    - Vision
+    - Hasard
+    - Perception
+lang: fr-FR
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: laurentperrinet
+    name: Laurent U Perrinet
+    initials: LuP
+    orcid: 0000-0002-9536-010X
+    twitter: laurentperrinet
+    website: https://laurentperrinet.github.io/
+    email: laurent.perrinet@univ-amu.fr
     affiliations:
-      - Department of Something, University of Whatever
+      - Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - ANR project "Horizontal-V1" N°ANR-17-CE37-0006.
+      - ANR project "AgileNeuroBot" N°ANR-20-CE23-0021.
+sectionsDepth: -1
+numberSections: true
+figureTitle: |
+ Figure
+autoSectionLabels: True
