@@ -5,7 +5,7 @@ keywords:
 - Hasard
 - Perception
 lang: fr
-date-meta: '2021-01-19'
+date-meta: '2021-03-05'
 author-meta:
 - Laurent U Perrinet
 header-includes: |-
@@ -18,8 +18,8 @@ header-includes: |-
   <meta name="citation_title" content="Les jeux du cerveau et du hasard" />
   <meta property="og:title" content="Les jeux du cerveau et du hasard" />
   <meta property="twitter:title" content="Les jeux du cerveau et du hasard" />
-  <meta name="dc.date" content="2021-01-19" />
-  <meta name="citation_publication_date" content="2021-01-19" />
+  <meta name="dc.date" content="2021-03-05" />
+  <meta name="citation_publication_date" content="2021-03-05" />
   <meta name="dc.language" content="fr" />
   <meta name="citation_language" content="fr" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/1d484f8b99746f77c4523901d1cc4885ea54c959/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/1d484f8b99746f77c4523901d1cc4885ea54c959/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/1d484f8b99746f77c4523901d1cc4885ea54c959/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/4308579fe1a22aa5117ed48722de0d76ee3a2a5a/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/4308579fe1a22aa5117ed48722de0d76ee3a2a5a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/4308579fe1a22aa5117ed48722de0d76ee3a2a5a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,10 +60,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/1d484f8b99746f77c4523901d1cc4885ea54c959/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/4308579fe1a22aa5117ed48722de0d76ee3a2a5a/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@1d484f8](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/1d484f8b99746f77c4523901d1cc4885ea54c959)
-on January 19, 2021.
+from [laurentperrinet/2021_theconversation_hasard@4308579](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/4308579fe1a22aa5117ed48722de0d76ee3a2a5a)
+on March 5, 2021.
 </em></small>
 
 ## Authors
@@ -88,6 +88,8 @@ on January 19, 2021.
 ## Abstract {.page_break_before}
 
 La pièce de théâtre des jeux de l’amour et du hasard Beaumarchais donne au hasard le rôle d’un personnage qui guide le destin des personnages... Dans la vie quotidienne on ne peut s’empêcher d’attribuer un esprit malin le fait que la tartine tombe du côté de la confiture ou alors que la prise USB n’est pas dans le bon sens que le cable... Est-ce que le hasard est d’une nature différente du reste des processus qui gouvernent les lois de la nature ?
+
+les paris sportifs, les tournois de poker ainsi que tous les jeux de loterie ont un aspect addict if. Quel est le rapport entre notre cerveau, son fonctionnement et le moteurLe le moteur qui fait tourner ses jeux, le moteur qui fait tourner ses yeux, le hasard ?
 
 
 
