@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/6b608c72e79849d9b7cb78514f44c62a681eb564/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/6b608c72e79849d9b7cb78514f44c62a681eb564/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/6b608c72e79849d9b7cb78514f44c62a681eb564/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/8312220e3702de28038f1ec4e1353b783e088d5d/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/8312220e3702de28038f1ec4e1353b783e088d5d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/8312220e3702de28038f1ec4e1353b783e088d5d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/6b608c72e79849d9b7cb78514f44c62a681eb564/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/8312220e3702de28038f1ec4e1353b783e088d5d/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@6b608c7](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/6b608c72e79849d9b7cb78514f44c62a681eb564)
+from [laurentperrinet/2021_theconversation_hasard@8312220](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/8312220e3702de28038f1ec4e1353b783e088d5d)
 on April 12, 2021.
 </em></small>
 
@@ -90,7 +90,7 @@ on April 12, 2021.
 Dans la pièce de théâtre la plus célèbre de Marivaux "[Le jeu de l’amour et du hasard](https://fr.wikipedia.org/wiki/Le_Jeu_de_l%27amour_et_du_hasard)", on invite le hasard à guider le destin des personnages, s'invitant ainsi comme un personnage à part entière. De la même façon, on ne peut s’empêcher dans la vie quotidienne d’attribuer à un esprit malin le fait que la tartine tombe du côté de la confiture ou alors que la prise USB n’est pas dans le bon sens que le cable. Est-ce que le hasard est d’une nature différente du reste des processus qui gouvernent les lois de la Nature ? Est-ce que le hasard joue un rôle jusque dans le fonctionnement de notre cerveau?
 
 
-# Les jeux de loterie
+# Les loteries jouent avec notre cerveau
 
 Entre paris sportifs, jeux en ligne, carte à gratter et loterie multimillionnaire, les jeux de hasard ont toujours pris une part importante dans nos vies. Ceux-ci peuvent vite devenir addictifs et révèlent de façon étonnante la dépendance entre hasard et mécanismes ancestraux du fonctionnement de notre cerveau. En effet, nous sommes prêts dans une loterie à risquer de perdre un peu pour gagner gagner beaucoup alors qu'on sait pertinemment que si il est très rare de gagner on est assuré de perdre à presque tous les coups ! Pourquoi alors nous abandonner à ce plaisir paradoxal ? En théorie, les règles sont préétablies et avec le hasard comme seul arbitre, on peut prédire les gains à long terme. Ainsi, certains jeux sont plus justes que d'autres. 
 On trouve parfois au détour d'un journal une rubrique qui conseille sur des stratégies à adopter pour maximiser ses chances de gagner. Les stratégies varient mais on peut donner quelques exemples. Pour la loterie nationale par exemple on peut trouver des guides qui répertorient les derniers numéros sortis du mois. On conseille alors par exemple de jouer à nouveau un numéro qui vient d'être tiré  plusieurs fois. En suivant une "loi des séries" ce serait le signe que ces numéros sont plus "actifs" et donc doivent être joués de préférence.
