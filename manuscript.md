@@ -1,5 +1,5 @@
 ---
-title: Les jeux du cerveau et du hasard
+title: Le jeu du cerveau et du hasard
 keywords:
 - Vision
 - Hasard
@@ -14,10 +14,10 @@ header-includes: |-
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Les jeux du cerveau et du hasard" />
-  <meta name="citation_title" content="Les jeux du cerveau et du hasard" />
-  <meta property="og:title" content="Les jeux du cerveau et du hasard" />
-  <meta property="twitter:title" content="Les jeux du cerveau et du hasard" />
+  <meta name="dc.title" content="Le jeu du cerveau et du hasard" />
+  <meta name="citation_title" content="Le jeu du cerveau et du hasard" />
+  <meta property="og:title" content="Le jeu du cerveau et du hasard" />
+  <meta property="twitter:title" content="Le jeu du cerveau et du hasard" />
   <meta name="dc.date" content="2021-04-12" />
   <meta name="citation_publication_date" content="2021-04-12" />
   <meta name="dc.language" content="fr" />
@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/08a10bca07c0167d778022136fee4d3240d12a54/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/08a10bca07c0167d778022136fee4d3240d12a54/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/08a10bca07c0167d778022136fee4d3240d12a54/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/c06f422a60142309a9340cdea632082fb216b14e/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/c06f422a60142309a9340cdea632082fb216b14e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/c06f422a60142309a9340cdea632082fb216b14e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/08a10bca07c0167d778022136fee4d3240d12a54/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/c06f422a60142309a9340cdea632082fb216b14e/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@08a10bc](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/08a10bca07c0167d778022136fee4d3240d12a54)
+from [laurentperrinet/2021_theconversation_hasard@c06f422](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/c06f422a60142309a9340cdea632082fb216b14e)
 on April 12, 2021.
 </em></small>
 
@@ -87,7 +87,7 @@ on April 12, 2021.
 
 ## Abstract {.page_break_before}
 
-La pièce de théâtre de Marivaux "Le Jeu de l’amour et du hasard" donne au hasard le rôle d’un personnage qui guide le destin des personnages... Dans la vie quotidienne on ne peut s’empêcher d’attribuer un esprit malin le fait que la tartine tombe du côté de la confiture ou alors que la prise USB n’est pas dans le bon sens que le cable... Est-ce que le hasard est d’une nature différente du reste des processus qui gouvernent les lois de la nature ?
+Dans la pièce de théâtre la plus célèbre de Marivaux "[Le jeu de l’amour et du hasard](https://fr.wikipedia.org/wiki/Le_Jeu_de_l%27amour_et_du_hasard)", on invite le hasard à guider le destin des personnages. De la même façon, on ne peut s’empêcher dans la vie quotidienne d’attribuer à un esprit malin le fait que la tartine tombe du côté de la confiture ou alors que la prise USB n’est pas dans le bon sens que le cable. Est-ce que le hasard est d’une nature différente du reste des processus qui gouvernent les lois de la nature ? Est-ce que le hasard joue un rôle jusque dans le fonctionnement de notre cerveau?
 
 
 # Les jeux de loterie
@@ -145,7 +145,7 @@ Cette nouvelle dimension permet de distinguer ce qui est dessiné par le contour
 
 # De l'utilité du hasard
 
-Pour conclure, nous avons construit ce personnage du hasard pour mieux prendre le cerveau. Même si on peut en déduire que le hasard n'existe pas comme une personne autonome ni comme un processus physique dans la Nature, il est plutôt une notion essentielle pour donner du sens à des mécanismes complexes qui ont lieu dans le cerveau. Ainsi, il donne des poids différents à différentes croyances et à ce titre il semble être une composante essentielle de l'intégration de ces "bits" d'information dans notre cerveau. C'est donc un outil de compréhension et nous considérons qu'il sera essentiel de rajouter ses connaissances neuro-scientifiques aux futurs algorithmes d'intelligence artificiels. Paradoxalement, c'est grâce au hasard que nous créerons des machines plus intelligentes.
+Pour conclure, nous avons invoqué le hasard pour mieux prendre le cerveau. Même si on peut en déduire que le hasard n'existe pas comme un processus physique dans la Nature, il est une notion essentielle pour donner du sens à des mécanismes complexes qui ont lieu dans le cerveau. Ainsi, il donne des poids différents à différentes croyances et semble être une composante essentielle de l'intégration de ces "bits" d'information dans notre cerveau. Il sera essentiel de rajouter ces connaissances neuro-scientifiques aux futurs algorithmes d'intelligence artificiels. En echo à la comédie de Marivaux, espérons que le hasard permettra d'allier biologie et informatique pour mieux comprendre l'intelligence.
 
 ## References {.page_break_before}
 
