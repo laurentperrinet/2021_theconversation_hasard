@@ -1,4 +1,4 @@
-# Les jeux du cerveau et du hasard
+# Le jeu du cerveau et du hasard
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
