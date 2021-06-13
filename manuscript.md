@@ -5,7 +5,7 @@ keywords:
 - Hasard
 - Perception
 lang: fr
-date-meta: '2021-04-13'
+date-meta: '2021-06-13'
 author-meta:
 - Laurent U Perrinet
 header-includes: |-
@@ -18,8 +18,8 @@ header-includes: |-
   <meta name="citation_title" content="Le jeu du cerveau et du hasard" />
   <meta property="og:title" content="Le jeu du cerveau et du hasard" />
   <meta property="twitter:title" content="Le jeu du cerveau et du hasard" />
-  <meta name="dc.date" content="2021-04-13" />
-  <meta name="citation_publication_date" content="2021-04-13" />
+  <meta name="dc.date" content="2021-06-13" />
+  <meta name="citation_publication_date" content="2021-06-13" />
   <meta name="dc.language" content="fr" />
   <meta name="citation_language" content="fr" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/08d902dab07a0d37a101f265c4c5e80257a43484/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/08d902dab07a0d37a101f265c4c5e80257a43484/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/08d902dab07a0d37a101f265c4c5e80257a43484/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/41125806adcc9df96fa7523d1defefe936d3ceb5/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/41125806adcc9df96fa7523d1defefe936d3ceb5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/41125806adcc9df96fa7523d1defefe936d3ceb5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,10 +59,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/08d902dab07a0d37a101f265c4c5e80257a43484/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/41125806adcc9df96fa7523d1defefe936d3ceb5/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@08d902d](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/08d902dab07a0d37a101f265c4c5e80257a43484)
-on April 13, 2021.
+from [laurentperrinet/2021_theconversation_hasard@4112580](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/41125806adcc9df96fa7523d1defefe936d3ceb5)
+on June 13, 2021.
 </em></small>
 
 ## Authors
@@ -89,11 +89,9 @@ on April 13, 2021.
 
 # Les loteries jouent avec notre cerveau
 
-Entre paris sportifs, jeux en ligne, carte à gratter et loterie multimillionnaire, les jeux de hasard ont toujours pris une part importante dans nos vies. Ceux-ci peuvent vite devenir addictifs et révèlent de façon étonnante la dépendance entre le hasard et des mécanismes ancestraux du fonctionnement de notre cerveau. En effet, si nous sommes prêts dans une loterie à risquer de perdre un peu d'argent pour en gagner beaucoup, on sait pertinemment que s'il est très rare de gagner on est assuré de perdre à presque tous les coups ! Pourquoi alors nous abandonner à ce plaisir paradoxal ? En théorie, les règles sont préétablies et avec le hasard comme seul arbitre, on peut prédire les gains à long terme et certains jeux sont plus justes que d'autres. 
-On trouve parfois au détour d'un journal une rubrique qui conseille sur des stratégies à adopter pour maximiser ses chances de gagner. Les stratégies varient mais on peut donner quelques exemples. Pour la loterie nationale par exemple on peut trouver des guides qui répertorient les derniers numéros sortis du mois. On conseille alors par exemple de jouer à nouveau un numéro qui vient d'être tiré  plusieurs fois. En suivant une "loi des séries" ce serait le signe que ces numéros sont plus "actifs" et donc doivent être joués de préférence.
+Entre paris sportifs, jeux en ligne, carte à gratter et loterie multimillionnaire, les jeux de hasard ont toujours pris une part importante dans nos vies. Ceux-ci peuvent vite devenir addictifs et révèlent de façon étonnante la dépendance entre le hasard et des mécanismes ancestraux du fonctionnement de notre cerveau. Par exemple, nous sommes prêts dans une loterie à jouer un peu d'argent pour en gagner beaucoup, même si l'on sait pertinemment que comme il est très rare de gagner, on est assuré de perdre à presque tous les coups ! Pourquoi alors nous abandonner à ce plaisir paradoxal ? En théorie, les règles sont préétablies et avec le hasard comme seul arbitre, on peut prédire les gains à long terme et certains jeux sont plus justes que d'autres. On trouve parfois au détour d'un journal une rubrique qui conseille sur des stratégies à adopter pour maximiser ses chances de gagner. Les stratégies varient mais on peut donner quelques exemples. Pour la loterie nationale par exemple on peut trouver des guides qui répertorient les derniers numéros sortis du mois. On conseille alors par exemple de jouer à nouveau un numéro qui vient d'être tiré  plusieurs fois. En suivant une "loi des séries" ce serait le signe que ces numéros sont plus "actifs" et donc doivent être joués de préférence.
 
-Avec un minimum de recul, on peut se rendre compte que ces stratégies n'ont aucun fondement. Pour cet exemple particulier, tout est mis en oeuvre à la loterie nationale pour que le tirage des boules un jour donné soit complètement indépendant de celui qui est fait le jour suivant. On peut aussi montrer mathématiquement que de telles séries peuvent bien apparaître et qu'elles s'expliquent entièrement par une série de coïncidences. Il est arrivé qu'une loterie bulgare donne le même tirage deux jours consécutifs ou plus récemment qu'une loterie en Afrique du Sud donne la série des nombres consécutifs 5, 6, 7, 8 et 9! C'est extrêmement rare, mais d'un autre côté nécessaire car tous les tirages sont possibles, y compris les plus surprenants. Le fait qu'on les trouve surprenants révèle un biais cognitif sur notre perception du hasard, trace de croyances souvent inconscientes et qui ne correspondent pas forcément aux mécanismes mathématiques qui régissent loteries et autres "bandits manchots". De façon opportuniste, on en déduit que l'on peut effectivement tirer une stratégie de gain, une sorte de martingale infaillible. Il suffit en effet simplement de connaître ces biais cognitifs et de jouer... l'inverse ! 
-Dans le loto par exemple, beaucoup jouent leur date de naissance. On peut en déduire que sur les 49 numéros possibles, il vaut mieux jouer un nombre supérieur à 31. Comme on sait que les nombres tombent *a priori* avec la même fréquence, pour une même probabilité de réussite, les personnes qui suivent ce biais cognitif ne les joueront pas: Par conséquent, on aura moins de gagnants et en suivant notre stratégie on peut espérer se partager un gain plus important.
+Avec un minimum de recul, on peut se rendre compte que ces stratégies n'ont aucun fondement. Pour cet exemple particulier, tout est mis en oeuvre à la loterie nationale pour que le tirage des boules un jour donné soit complètement indépendant de celui qui est fait le jour suivant. On peut aussi montrer mathématiquement que de telles séries peuvent bien apparaître et qu'elles s'expliquent entièrement par une série de coïncidences. Il est arrivé qu'une loterie bulgare donne le même tirage deux jours consécutifs ou plus récemment qu'une loterie en Afrique du Sud donne la série des nombres consécutifs 5, 6, 7, 8 et 9! C'est extrêmement rare, mais d'un autre côté nécessaire car tous les tirages sont possibles, y compris les plus surprenants. Le fait qu'on les trouve surprenants révèle un biais cognitif sur notre perception du hasard, trace de croyances souvent inconscientes et qui ne correspondent pas forcément aux mécanismes mathématiques qui régissent loteries et autres "bandits manchots". De façon opportuniste, on en déduit que l'on peut effectivement tirer une stratégie de gain, une sorte de martingale infaillible. Il suffit en effet simplement de connaître ces biais cognitifs et de jouer... l'inverse ! Dans le loto par exemple, beaucoup jouent leur date de naissance. On peut en déduire que sur les 49 numéros possibles, il vaut mieux jouer un nombre supérieur à 31. Comme on sait que les nombres tombent *a priori* avec la même fréquence, pour une même probabilité de réussite, les personnes qui suivent ce biais cognitif ne les joueront pas: Par conséquent, on aura moins de gagnants et en suivant notre stratégie on peut espérer se partager un gain plus important.
 
 ![
 **Notre cerveau crée des formes dans le bruit.**
