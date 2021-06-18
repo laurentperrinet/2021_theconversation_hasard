@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/37abd51843df89138141869264086e7a3df008d4/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/37abd51843df89138141869264086e7a3df008d4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/37abd51843df89138141869264086e7a3df008d4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/08f8ae2e9e7eb19b5b3b7fb85b87e8ef977443ad/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/08f8ae2e9e7eb19b5b3b7fb85b87e8ef977443ad/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/08f8ae2e9e7eb19b5b3b7fb85b87e8ef977443ad/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/37abd51843df89138141869264086e7a3df008d4/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/08f8ae2e9e7eb19b5b3b7fb85b87e8ef977443ad/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@37abd51](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/37abd51843df89138141869264086e7a3df008d4)
+from [laurentperrinet/2021_theconversation_hasard@08f8ae2](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/08f8ae2e9e7eb19b5b3b7fb85b87e8ef977443ad)
 on June 18, 2021.
 </em></small>
 
@@ -115,11 +115,18 @@ La génération du mouvement d'une cible visuelle sur un écran est ici contrô
 L'étude des différentes stratégies révélées dans ces comportements d'exploitation et d'exploration peuvent être un marqueur pour détecter des pathologies neuronales. En effet, la population humaine révèle une grande diversité de profils cognitifs et il est ardu de définir de façon monolithique un standard neuro-typique. En faisant un lien entre cerveau et hasard, nous pouvons exploiter cette connaissance fondamentale pour mieux comprendre cette diversité. Parmi le spectre du répertoire des comportements humains, les comportements schizophrènes se manifestent en particulier par des délusions et une certaine impulsivité. Ceci est illustré par une expérience simple: Imaginons une urne opaque qui contient 100 billes bleu et rouge dans une proportion non équilibrée: soit 90 rouges et 10 bleues ou bien 10 rouges et 90 bleues. Le but du jeu est de tirer une conclusion pour savoir quelle est la couleur majoritaire tout en prélevant le moins de billes. On observe que face à ce problème dans lequel le hasard de tirage joue le rôle principal, les patients avec des comportements schizophrènes donnent en moyenne une conclusion avant la population moyenne. Ce résultat suggère donc que ces patients ont plus tendance à croire à leurs propres hypothèses par rapport à des contrôles. Un comportement opposé semble être en jeu dans le spectre autistique suggérant des mécanismes similaires mais antagonistes. Plus précisément, il semble que le traitement du hasard est contrôlé par l'anatomie fine du cerveau et du réseau de neurones qui le définit. Entre exploitation et exploration, tout est affaire d'équilibre!
 
 
+
+## Du hasard à des croyances
+
+Pour aller plus loin que de simples statistiques sur des fréquences d'occurrence d'événements comme celles rencontrées dans la loterie, le cerveau semble manipuler des croyances complexes sur son environnement. Mais dans ce contexte, qu'est qu'une croyance?
+
+Une contribution majeure d'[Antoine-Augustin Cournot](https://fr.wikipedia.org/wiki/Antoine-Augustin_Cournot) est d'avoir démystifié une origine du hasard qui permet de mieux comprendre cette notion. Économiste, il étudiait durant le XIX<sup>e</sup> siècle des processus d'établissement de monopoles économiques. S'interrogeant sur les aléas perturbant ses données, il fit cette proposition simple. Si au lieu d'être un processus externe comme peut l'être la gravité, n'est-ce pas l'ignorance de l'observateur qui crée cette impression de hasard ? Au début d'un jeu de mikado, les tiges en bois suivent des trajectoires bien déterministes, mais c'est l'imprécision sur les conditions initiales qui rend la position finale imprédictible. Dans cette perspective, le hasard émerge de processus bien déterministes mais qui interagissent indépendamment. 
+
+Au lieu d'être passif vis-à-vis du hasard, notre cerveau a évolué pour mesurer le degré de cette ignorance, et ainsi pouvoir intégrer des croyances en fonction de leurs précisions. Toutefois, les mécanismes qui sont en jeu sont encore mal connus et bien éloignés de l'analogie que l'on peut faire entre intelligence biologique et l'intelligence artificielle, celle que l'on construit dans les automates ou robots, ou encore plus récemment avec les ordinateurs ou l'apprentissage "profond". De plus, en attendant l'avènement d'une nouvelle génération d'ordinateurs quantiques, les ordinateurs classiques sont actuellement déterministes par construction et il n'y a pas de place pour le hasard. À l'opposé, notre cerveau utilise le hasard, de telle sorte que des découvertes scientifiques peuvent être dues au hasard, ce qu'on appelle la "sérendipité". 
+
+Au niveau théorique, une branche entière des mathématiques, la théorie des probabilités, considère les différentes manières de mesurer un croyance. Par exemple, une mesure physique comme la luminance d'une scène visuelle est donnée par sa valeur moyenne mais aussi par sa dispersion autour de cette valeur moyenne. Cela permet en particulier d'affiner les algorithmes classiques d'intelligence artificielle car cela permet d'intégrer plusieurs croyances de sources différentes, et surtout avec des précisions différentes. Est-ce qu'une telle théorie pourrait être à l'œuvre dans le cerveau ?
+
 # Un processus dynamique
-
-Bien plus que les simples statistiques sur des fréquences d'occurrence d'événements rencontrées dans la loterie, le cerveau semble manipuler des croyances complexes sur son environnement. Mais en pratique, les mécanismes qui sont en jeu sont encore mal connus et bien éloignés de l'analogie que l'on peut faire entre intelligence biologique et l'intelligence artificielle, celle que l'on construit dans les automates ou robots, ou encore plus récemment avec les ordinateurs ou l'apprentissage "profond".
-
-D'un coté, un ordinateur est par construction déterministe et il n'y a pas de place pour le hasard. De l'autre, on a vu que notre cerveau utilise le hasard, de telle sorte que des découvertes scientifiques peuvent être dues au hasard, ce qu'on appelle la sérendipité. On va jusqu'à attribuer au hasard une personnalité: On jure contre ce qui a fait que la tartine tombe du côté de la confiture ou que cette maudite fiche du câble USB soit systématiquement dans le sens inverse. Une contribution d'[Antoine-Augustin Cournot](https://fr.wikipedia.org/wiki/Antoine-Augustin_Cournot) et d'avoir démystifié l'origine du hasard. Économiste, ils étudiait durant le XIXe siècle des processus d'établissement de monopoles économiques. S'interrogeant sur les aléas perturbant les données qu'ils étudiait, il fit cette proposition simple. Le hasard émerge de processus bien déterministes mais qui interagissent indépendamment. Dans cette vision, le hasard n'existe pas comme un processus autonome mais c'est l'ignorance sur l'origine des sources qui crée le hasard, résonnant ainsi de façon singulière avec la définition donnée par Henri Poincaré. Une branche entière des mathématiques étudie la théorie des probabilités et permet en particulier d'affiner les algorithmes classiques d'intelligence artificielle en intégrant cette mesure de la précision des croyances formées aux différents niveaux du traitement de l'information. Est-ce qu'une telle théorie pourrait être à l'œuvre dans le cerveau ?
 
 Récemment, et nous avons pu directement interroger cette hypothèse dans des expériences de neurophysiologie [@doi:10.1101/2021.03.30.437692]. Nous nous sommes concentrés sur le cortex visuel primaire qui représente préférentiellement des orientations dans les images visuelles, comme il a été mis en évidence en montrant des réseaux réguliers de lignes géométriques parallèles [@doi:10.1113/jphysiol.1959.sp006308]. En complément de ces expériences fondatrices, nous avons synthétisé des stimulations visuelles dans laquelle nous manipulons explicitement la précision de cette orientation (voir Figure @fig:obv1). Ainsi nous ajoutons aux images une nouvelle dimension qui représente le fait qu'un objet visuel peut être plus ou moins orienté.
 
