@@ -5,7 +5,7 @@ keywords:
 - Hasard
 - Perception
 lang: fr
-date-meta: '2021-06-13'
+date-meta: '2021-06-18'
 author-meta:
 - Laurent U Perrinet
 header-includes: |-
@@ -18,8 +18,8 @@ header-includes: |-
   <meta name="citation_title" content="Le jeu du cerveau et du hasard" />
   <meta property="og:title" content="Le jeu du cerveau et du hasard" />
   <meta property="twitter:title" content="Le jeu du cerveau et du hasard" />
-  <meta name="dc.date" content="2021-06-13" />
-  <meta name="citation_publication_date" content="2021-06-13" />
+  <meta name="dc.date" content="2021-06-18" />
+  <meta name="citation_publication_date" content="2021-06-18" />
   <meta name="dc.language" content="fr" />
   <meta name="citation_language" content="fr" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/ed814067ba49c5fe1b712803bf835db171518e2c/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/ed814067ba49c5fe1b712803bf835db171518e2c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/ed814067ba49c5fe1b712803bf835db171518e2c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/f63be6625b32b52999734db857025b26232ce70c/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/f63be6625b32b52999734db857025b26232ce70c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/f63be6625b32b52999734db857025b26232ce70c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,10 +59,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/ed814067ba49c5fe1b712803bf835db171518e2c/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/f63be6625b32b52999734db857025b26232ce70c/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@ed81406](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/ed814067ba49c5fe1b712803bf835db171518e2c)
-on June 13, 2021.
+from [laurentperrinet/2021_theconversation_hasard@f63be66](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/f63be6625b32b52999734db857025b26232ce70c)
+on June 18, 2021.
 </em></small>
 
 ## Authors
@@ -117,7 +117,7 @@ L'étude des différentes stratégies révélées dans ces comportements d'explo
 
 # Un processus dynamique
 
-Bien plus que de simples statistiques sur des fréquences d'occurrence d'événements, le cerveau semble donc manipuler des croyances complexes sur son environnement présent et futur. Mais en pratique, les mécanismes qui sont en jeu sont encore mal connus et bien éloignés de l'analogie que l'on a pu faire entre intelligence et automates ou robots, ou encore plus récemment avec les ordinateurs et ce que l'on appelle l'intelligence artificielle.
+Bien plus que les simples statistiques sur des fréquences d'occurrence d'événements rencontrées dans la loterie, le cerveau semble manipuler des croyances complexes sur son environnement. Mais en pratique, les mécanismes qui sont en jeu sont encore mal connus et bien éloignés de l'analogie que l'on peut faire entre intelligence biologique et l'intelligence artificielle, celle que l'on construit dans les automates ou robots, ou encore plus récemment avec les ordinateurs ou l'apprentissage "profond".
 
 D'un coté, un ordinateur est par construction déterministe et il n'y a pas de place pour le hasard. De l'autre, on a vu que notre cerveau utilise le hasard, de telle sorte que des découvertes scientifiques peuvent être dues au hasard, ce qu'on appelle la sérendipité. On va jusqu'à attribuer au hasard une personnalité: On jure contre ce qui a fait que la tartine tombe du côté de la confiture ou que cette maudite fiche du câble USB soit systématiquement dans le sens inverse. Une contribution d'[Antoine-Augustin Cournot](https://fr.wikipedia.org/wiki/Antoine-Augustin_Cournot) et d'avoir démystifié l'origine du hasard. Économiste, ils étudiait durant le XIXe siècle des processus d'établissement de monopoles économiques. S'interrogeant sur les aléas perturbant les données qu'ils étudiait, il fit cette proposition simple. Le hasard émerge de processus bien déterministes mais qui interagissent indépendamment. Dans cette vision, le hasard n'existe pas comme un processus autonome mais c'est l'ignorance sur l'origine des sources qui crée le hasard, résonnant ainsi de façon singulière avec la définition donnée par Henri Poincaré. Une branche entière des mathématiques étudie la théorie des probabilités et permet en particulier d'affiner les algorithmes classiques d'intelligence artificielle en intégrant cette mesure de la précision des croyances formées aux différents niveaux du traitement de l'information. Est-ce qu'une telle théorie pourrait être à l'œuvre dans le cerveau ?
 
@@ -133,7 +133,9 @@ Cette nouvelle dimension permet par exemple de distinguer ce qui est dessiné pa
 
 # De l'utilité du hasard
 
-Pour conclure, nous avons invoqué le hasard pour mieux comprendre le cerveau. Même si on peut en déduire que le hasard n'existe pas comme un processus physique dans la Nature, il constitue une notion essentielle pour donner du sens à des mécanismes complexes qui ont lieu dans le cerveau. Ainsi, il donne des poids différents à différentes croyances et semble être une composante essentielle de l'intégration de ces "bits" d'information distribués dans notre cerveau, conduisant vers une conscience unifiée du monde qui nous environne. À ce titre, il semble prometteur de rajouter ces connaissances neuro-scientifiques aux futurs algorithmes d'intelligence artificiels. En écho à la comédie de Marivaux, espérons que le hasard permettra d'allier neurosciences et informatique pour mieux comprendre l'intelligence.
+Pour conclure, nous avons invoqué le hasard pour mieux comprendre le cerveau. Même s'il peut être une source de confusion, c'est un mécanisme face auquel le cerveau ne reste pas passif, et il constitue une notion centrale pour donner du sens aux mécanismes complexes qui ont lieu dans le cerveau. 
+
+Ainsi, une meilleure connaissance du hasard permet l'intégration optimale des “bits” d'information distribués dans notre cerveau, conduisant vers une conscience unifiée du monde qui nous environne. À ce titre, il semble prometteur de rajouter ces connaissances aux futurs algorithmes d'intelligence artificiels. En écho à la comédie de Marivaux, espérons que le hasard permettra d'unir neurosciences et informatique pour mieux comprendre l'intelligence.
 
 ## References {.page_break_before}
 
