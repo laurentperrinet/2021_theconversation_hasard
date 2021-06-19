@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/60dbd6797ad11ceb102da1aafff5624fe249dfc4/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/60dbd6797ad11ceb102da1aafff5624fe249dfc4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/60dbd6797ad11ceb102da1aafff5624fe249dfc4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/acb2d46aeceb7a6ac156483505d472bcfbd7ca18/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/acb2d46aeceb7a6ac156483505d472bcfbd7ca18/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/acb2d46aeceb7a6ac156483505d472bcfbd7ca18/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/60dbd6797ad11ceb102da1aafff5624fe249dfc4/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/acb2d46aeceb7a6ac156483505d472bcfbd7ca18/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@60dbd67](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/60dbd6797ad11ceb102da1aafff5624fe249dfc4)
+from [laurentperrinet/2021_theconversation_hasard@acb2d46](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/acb2d46aeceb7a6ac156483505d472bcfbd7ca18)
 on June 19, 2021.
 </em></small>
 
@@ -131,9 +131,9 @@ Au niveau théorique, une branche entière des mathématiques, la théorie des p
 
 # Un processus dynamique
 
-Récemment, et nous avons pu directement interroger des neurones biologiques sur cette hypothèse. Nous nous sommes concentrés sur le cortex visuel primaire, une région sur la surface du cerveau qui est essentielle pour la vision. Depuis les expériences de Hubel et Wiesel **ref 1**, on sait que les neurones de cette région répondent à l'orientation des contours dans l'image, par exemple celle d'une barre qui serait présentée devant nos yeux. 
+Récemment, et nous avons pu directement interroger des neurones biologiques sur cette hypothèse. Nous nous sommes concentrés sur le cortex visuel primaire, une région sur la surface du cerveau qui est essentielle pour la vision. Depuis les expériences de Hubel et Wiesel [@doi:10.1113/jphysiol.1959.sp006308], on sait que les neurones de cette région répondent à l'orientation des contours dans l'image, par exemple celle d'une barre qui serait présentée devant nos yeux. 
 
-Pour étendre la portée de ces expériences fondatrices des neurosciences de la vision, nous avons synthétisé des stimulations visuelles dans laquelle nous manipulons explicitement la précision de cette orientation (**voir Figure 2**). Ainsi nous ajoutons aux images une nouvelle dimension qui représente le fait qu'un objet visuel peut être plus ou moins orienté en modifiant la précision de cette orientation qui peut ainsi être transformée depuis une barre parfaitement orientée, à une orientation plus naturelle jusqu'à une texture non orientée.
+Pour étendre la portée de ces expériences fondatrices des neurosciences de la vision, nous avons synthétisé des stimulations visuelles dans laquelle nous manipulons explicitement la précision de cette orientation (voir Figure @fig:obv1). Ainsi nous ajoutons aux images une nouvelle dimension qui représente le fait qu'un objet visuel peut être plus ou moins orienté en modifiant la précision de cette orientation qui peut ainsi être transformée depuis une barre parfaitement orientée, à une orientation plus naturelle jusqu'à une texture non orientée.
 
 ![
 **L'orientation et sa précision dans une image naturelle.**
@@ -141,7 +141,7 @@ Différentes zones de cette image naturelle (© Hugo Ladret) peuvent correspondr
 ](https://www.biorxiv.org/content/biorxiv/early/2021/03/30/2021.03.30.437692/F7.large.jpg?width=800&height=600&carousel=1 "OBV1"){#fig:obv1}
 
 
-Cette nouvelle dimension permet par exemple de distinguer ce qui est dessiné par le contour net d'un objet visuel (comme l'objet sur la figure 2) par rapport à la texture d'un objet pour laquelle la précision est moindre (comme la texture à droite de la figure 2).  Ces expériences de neurophysiologie ont révélé que l'activité de la population de neurones construit progressivement une représentation de l'orientation mais aussi de sa précision **ref 2**. Nos résultats indiquent aussi que les neurones communiquent entre eux différentiellement en fonction de cette précision. 
+Cette nouvelle dimension permet par exemple de distinguer ce qui est dessiné par le contour net d'un objet visuel (comme l'objet sur la figure @fig:obv1) par rapport à la texture d'un objet pour laquelle la précision est moindre (comme la texture à droite de la figure @fig:obv1).  Ces expériences de neurophysiologie ont révélé que l'activité de la population de neurones construit progressivement une représentation de l'orientation mais aussi de sa précision [@doi:10.1101/2021.03.30.437692]. Nos résultats indiquent aussi que les neurones communiquent entre eux différentiellement en fonction de cette précision. 
 
 Pour comprendre ce mécanisme dynamique, on peut imaginer qu'à la manière d'un peintre ajustant une touche de peinture sur son œuvre, la représentation de notre environnement visuel se construit progressivement. Les informations sont intégrées avec des poids qui correspondent à la précision de chaque élément de l'image. Dans le futur, de nouvelles expériences sont nécessaires pour mieux comprendre ces mécanismes. Nous souhaitons notamment comprendre comment nous intégrons les informations de manière dynamique, dans le flux incessant de stimuli auxquels notre système sensoriel est confronté.
 
