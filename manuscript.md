@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/970dbb1e1e5ee8f5b0b91e5a43d1b2500e217904/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/970dbb1e1e5ee8f5b0b91e5a43d1b2500e217904/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/970dbb1e1e5ee8f5b0b91e5a43d1b2500e217904/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/9b602e3a3fbf8bb6a79bb944b41f533124725571/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/9b602e3a3fbf8bb6a79bb944b41f533124725571/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/9b602e3a3fbf8bb6a79bb944b41f533124725571/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/970dbb1e1e5ee8f5b0b91e5a43d1b2500e217904/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/9b602e3a3fbf8bb6a79bb944b41f533124725571/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@970dbb1](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/970dbb1e1e5ee8f5b0b91e5a43d1b2500e217904)
+from [laurentperrinet/2021_theconversation_hasard@9b602e3](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/9b602e3a3fbf8bb6a79bb944b41f533124725571)
 on June 19, 2021.
 </em></small>
 
@@ -91,7 +91,7 @@ on June 19, 2021.
 
 Entre pari sportif, jeu en ligne, carte à gratter et loterie multimillionnaire, les jeux de hasard ont toujours pris une part importante dans nos vies. Ceux-ci peuvent vite devenir addictifs et révèlent de façon étonnante la dépendance entre le hasard et des mécanismes ancestraux du fonctionnement de notre cerveau. Par exemple, nous sommes prêts dans une loterie à jouer un peu d'argent pour en gagner beaucoup, même si l'on sait pertinemment que comme il est très rare de gagner, on est assuré de perdre à presque tous les coups ! 
 
-Pourtant, notre cerveau ne peut s'empêcher de s'abandonner à ce plaisir irrationnel. En théorie, les règles sont préétablies et avec le hasard comme seul arbitre, on peut prédire les gains à long terme, et certains jeux sont plus justes que d'autres. On trouve parfois au détour d'un journal une rubrique qui conseille sur des stratégies à adopter pour maximiser ses chances de gagner. Pour la loterie nationale par exemple on peut trouver des guides qui répertorient les derniers numéros sortis du mois. En suivant une prétendue “loi des séries”, il faudrait jouer de préférence ces numéros sont plus “actifs".
+Pourtant, notre cerveau nous pousse à nous abandonner à ce plaisir irrationnel. En théorie, les règles sont préétablies et avec le hasard comme seul arbitre, on peut prédire les gains à long terme, et certains jeux sont plus justes que d'autres. On trouve parfois au détour d'un journal une rubrique qui conseille sur des stratégies à adopter pour maximiser ses chances de gagner. Pour la loterie nationale par exemple on peut trouver des guides qui répertorient les derniers numéros sortis du mois. En suivant une prétendue “loi des séries”, il faudrait jouer de préférence ces numéros sont plus “actifs".
 
 Avec un minimum de recul, on peut se rendre compte que ces stratégies n'ont aucun fondement. Pour cet exemple particulier, tout est mis en œuvre à la loterie nationale pour que le tirage des boules un jour donné soit complètement indépendant de celui qui est fait le jour suivant. Même s'il est arrivé récemment qu'une loterie en Afrique du Sud donne la série des nombres consécutifs 5, 6, 7, 8 et 9, on peut justifier mathématiquement que de telles séries peuvent bien apparaître et qu'elles s'expliquent entièrement par une série de coïncidences. C'est extrêmement rare, mais d'un autre côté nécessaire car tous les tirages sont possibles, y compris les plus surprenants. 
 
@@ -149,8 +149,8 @@ Pour comprendre ce mécanisme dynamique, on peut imaginer qu'à la manière d'un
 # De l'utilité du hasard
 
 Pour conclure, nous avons invoqué le hasard pour mieux comprendre le cerveau. Même s'il peut être une source de confusion, c'est un mécanisme face auquel le cerveau ne reste pas passif, et il constitue une notion centrale pour donner du sens aux mécanismes complexes qui ont lieu dans le cerveau. 
-
-Ainsi, une meilleure connaissance du hasard permet l'intégration optimale des “bits” d'information distribués dans notre cerveau, conduisant vers une conscience unifiée du monde qui nous environne. À ce titre, il semble prometteur de rajouter ces connaissances aux futurs algorithmes d'intelligence artificiels. En écho à la comédie de Marivaux, espérons que le hasard permettra d'unir neurosciences et informatique pour mieux comprendre l'intelligence.
+ 
+Ainsi, une meilleure connaissance du hasard permet l'intégration optimale des “bits” d'information distribués dans notre cerveau, conduisant vers une conscience unifiée du monde qui nous environne. À ce titre, il semble prometteur de rajouter cette nouvelle dimension aux futurs algorithmes d'intelligence artificielle. En écho à la comédie de Marivaux, espérons que le hasard permettra d'unir neurosciences et informatique pour mieux comprendre l'intelligence.
 
 ## References {.page_break_before}
 
