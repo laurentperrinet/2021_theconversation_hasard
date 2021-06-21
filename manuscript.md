@@ -5,7 +5,7 @@ keywords:
 - Hasard
 - Perception
 lang: fr
-date-meta: '2021-06-19'
+date-meta: '2021-06-21'
 author-meta:
 - Laurent U Perrinet
 header-includes: |-
@@ -18,8 +18,8 @@ header-includes: |-
   <meta name="citation_title" content="Le jeu du cerveau et du hasard" />
   <meta property="og:title" content="Le jeu du cerveau et du hasard" />
   <meta property="twitter:title" content="Le jeu du cerveau et du hasard" />
-  <meta name="dc.date" content="2021-06-19" />
-  <meta name="citation_publication_date" content="2021-06-19" />
+  <meta name="dc.date" content="2021-06-21" />
+  <meta name="citation_publication_date" content="2021-06-21" />
   <meta name="dc.language" content="fr" />
   <meta name="citation_language" content="fr" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/acb2d46aeceb7a6ac156483505d472bcfbd7ca18/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/acb2d46aeceb7a6ac156483505d472bcfbd7ca18/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/acb2d46aeceb7a6ac156483505d472bcfbd7ca18/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/16e6334711a78401ef594feea48ee6e2c13f3d05/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/16e6334711a78401ef594feea48ee6e2c13f3d05/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/16e6334711a78401ef594feea48ee6e2c13f3d05/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,10 +59,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/acb2d46aeceb7a6ac156483505d472bcfbd7ca18/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/16e6334711a78401ef594feea48ee6e2c13f3d05/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@acb2d46](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/acb2d46aeceb7a6ac156483505d472bcfbd7ca18)
-on June 19, 2021.
+from [laurentperrinet/2021_theconversation_hasard@16e6334](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/16e6334711a78401ef594feea48ee6e2c13f3d05)
+on June 21, 2021.
 </em></small>
 
 ## Authors
@@ -123,9 +123,9 @@ L'étude des différentes stratégies révélées dans ces comportements d'explo
 
 Les biais cognitifs ne se révèlent pas seulement dans les statistiques sur des fréquences d'occurrence d'événements comme celles rencontrées dans la loterie, et le cerveau semble manipuler des croyances complexes sur son environnement. Mais dans ce contexte, qu'est qu'une croyance?
 
-Une contribution majeure d'[Antoine-Augustin Cournot](https://fr.wikipedia.org/wiki/Antoine-Augustin_Cournot) est d'avoir démystifié une origine du hasard qui permet de mieux comprendre cette notion. Économiste, il étudiait durant le XIX<sup>e</sup> siècle des processus d'établissement de monopoles économiques. S'interrogeant sur les aléas perturbant ses données expérimentales, il fit cette proposition simple. Si au lieu d'être un processus externe et autonome, comme on en fait l'hypothèse dans les mécanismes quantiques, n'est-ce pas l'ignorance de l'observateur sur l'origine des données qui crée cette impression de hasard ? En observant deux joueurs de go, on va avoir l'impression que les coups sont joués au hasard si l'on ignore tout des règles du jeu, alors que ce jeu ne fait aucunement intervenir la chance. Dans cette perspective, le hasard peut émerger de processus bien déterministes quand nous ignorons tout des interactions entre ces processus. Une croyance est dans ce contexte une mesure de cette ignorance.
+Une contribution majeure d'[Antoine-Augustin Cournot](https://fr.wikipedia.org/wiki/Antoine-Augustin_Cournot) est d'avoir démystifié une origine du hasard qui permet de mieux comprendre cette notion. Économiste, il étudiait durant le XIX<sup>e</sup> siècle des processus d'établissement de monopoles économiques. S'interrogeant sur les aléas perturbant ses données expérimentales, il fit cette proposition simple. Si au lieu d'être un processus autonome, comme on en fait l'hypothèse dans les mécanismes quantiques, n'est-ce pas l'ignorance de l'observateur sur l'origine des données qui crée cette impression de hasard ? En observant deux joueurs de go, on va avoir l'impression que les coups sont joués quasi au hasard si l'on ignore tout des règles du jeu, alors que ce jeu ne fait aucunement intervenir la chance. Dans cette perspective, le hasard peut émerger de processus bien déterministes quand l'observateur ignore tout des interactions entre ces processus. Une croyance est dans ce contexte une mesure de cette ignorance.
 
-Ainsi, au lieu d'être passif vis-à-vis du hasard, notre cerveau a évolué pour manipuler ces croyances et pouvoir intégrer des croyances en fonction de leurs précisions. Toutefois, les mécanismes qui sont en jeu sont encore mal connus et bien éloignés de l'analogie que l'on peut faire entre intelligence biologique et l'intelligence artificielle que l'on construit dans les automates ou robots, ou encore plus récemment avec les ordinateurs ou l'apprentissage "profond". De plus, en attendant l'avènement d'une nouvelle génération d'ordinateurs quantiques, les ordinateurs classiques sont par construction déterministes et il n'y a pas de place pour le hasard. À l'opposé, notre cerveau utilise le hasard, de telle sorte que des découvertes scientifiques peuvent être dues au hasard, ce qu'on appelle la "sérendipité". 
+Ainsi, au lieu d'être passif vis-à-vis du hasard, notre cerveau a évolué pour manipuler ces croyances et pouvoir les intégrer en fonction de leur précision relative. Toutefois, les mécanismes qui sont en jeu sont encore mal connus et bien éloignés de l'analogie que l'on peut faire entre intelligence biologique et l'intelligence artificielle que l'on construit dans les automates ou robots, ou encore plus récemment avec les ordinateurs ou l'apprentissage "profond". De plus, en attendant l'avènement d'une nouvelle génération d'ordinateurs quantiques, les ordinateurs classiques sont par construction déterministes et il n'y a pas de place pour le hasard. À l'opposé, notre cerveau utilise le hasard, et il arrive que des découvertes scientifiques peuvent être dues au hasard, ce qu'on appelle la "sérendipité". 
 
 Au niveau théorique, une branche entière des mathématiques, la théorie des probabilités, considère les différentes manières de mesurer et manipuler une croyance. Par exemple, une mesure physique comme l'orientation d'un objet dans une scène visuelle est donnée par sa valeur moyenne mais aussi par sa dispersion autour de cette valeur moyenne. Cela permet en particulier d'affiner les algorithmes classiques d'intelligence artificielle car cela permet d'intégrer plusieurs croyances de sources différentes, en particulier si elles possédent des précisions différentes. Est-ce qu'une telle théorie pourrait être à l'œuvre dans le cerveau ?
 
