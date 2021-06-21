@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/0c8e6bffc43dd916d990381250404237ac2c167e/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/0c8e6bffc43dd916d990381250404237ac2c167e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/0c8e6bffc43dd916d990381250404237ac2c167e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/ee39dcd64251a6823068f152e7dc15a43b277d61/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/ee39dcd64251a6823068f152e7dc15a43b277d61/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/ee39dcd64251a6823068f152e7dc15a43b277d61/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/0c8e6bffc43dd916d990381250404237ac2c167e/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/ee39dcd64251a6823068f152e7dc15a43b277d61/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@0c8e6bf](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/0c8e6bffc43dd916d990381250404237ac2c167e)
+from [laurentperrinet/2021_theconversation_hasard@ee39dcd](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/ee39dcd64251a6823068f152e7dc15a43b277d61)
 on June 21, 2021.
 </em></small>
 
@@ -84,7 +84,7 @@ on June 21, 2021.
 
 
 
-**Dans la pièce de théâtre la plus célèbre de Marivaux “[Le jeu de l'amour et du hasard](https://fr.wikipedia.org/wiki/Le_Jeu_de_l'amour_et_du_hasard)”, l'auteur joue à inverser le rôle des personnages, et le hasard est invité à guider leurs destins. De la même façon, notre cerveau est quotidiennement confronté au hasard, aussi bien dans une loterie que dans les incertitudes et ambiguïtés révélées dans les illusions d'optique. Au point que l'on peut attribuer à un esprit malin le fait que la tartine tombe du côté de la confiture, ou que la fiche du câble USB soit toujours dans le mauvais sens. Le hasard s'invite ainsi comme un personnage à part entière, et on peut s'interroger du rôle que celui-ci peut jouer dans le fonctionnement de notre cerveau.**
+**Dans la pièce de théâtre la plus célèbre de Marivaux "[Le jeu de l’amour et du hasard](https://fr.wikipedia.org/wiki/Le_Jeu_de_l%27amour_et_du_hasard)", en jouant à inverser le rôle des personnages, le hasard est invité à guider leurs destins. De la même façon, notre cerveau est confronté dans la vie quotidienne à des incertitudes liées par exemple à une vision bruitée ou à des ambiguïtés dans la perception des objets visuels, telle que dans les illusions visuelles. Au point qu'on peut attribuer à un esprit malin le fait que la tartine tombe du côté de la confiture ou alors que la fiche du câble USB soit toujours dans le sens inverse. Le hasard s'invite ainsi comme un personnage à part entière, et on peut s'interroger du rôle que celui-ci peut jouer dans le fonctionnement de notre cerveau.**
 
 
 # Les loteries jouent avec notre cerveau
