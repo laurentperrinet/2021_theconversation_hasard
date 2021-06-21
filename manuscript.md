@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/16e6334711a78401ef594feea48ee6e2c13f3d05/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/16e6334711a78401ef594feea48ee6e2c13f3d05/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/16e6334711a78401ef594feea48ee6e2c13f3d05/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/0c8e6bffc43dd916d990381250404237ac2c167e/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/0c8e6bffc43dd916d990381250404237ac2c167e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/0c8e6bffc43dd916d990381250404237ac2c167e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/16e6334711a78401ef594feea48ee6e2c13f3d05/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/0c8e6bffc43dd916d990381250404237ac2c167e/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@16e6334](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/16e6334711a78401ef594feea48ee6e2c13f3d05)
+from [laurentperrinet/2021_theconversation_hasard@0c8e6bf](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/0c8e6bffc43dd916d990381250404237ac2c167e)
 on June 21, 2021.
 </em></small>
 
@@ -84,7 +84,7 @@ on June 21, 2021.
 
 
 
-**Dans la pièce de théâtre la plus célèbre de Marivaux "[Le jeu de l’amour et du hasard](https://fr.wikipedia.org/wiki/Le_Jeu_de_l%27amour_et_du_hasard)", en jouant à inverser le rôle des personnages, le hasard est invité à guider leurs destins. De la même façon, notre cerveau est confronté dans la vie quotidienne à des incertitudes liées par exemple à une vision bruitée ou à des ambiguïtés dans la perception des objets visuels, telle que dans les illusions visuelles. Au point qu'on peut attribuer à un esprit malin le fait que la tartine tombe du côté de la confiture ou alors que la fiche du câble USB soit toujours dans le sens inverse. Le hasard s'invite ainsi comme un personnage à part entière, et on peut s'interroger du rôle que celui-ci peut jouer dans le fonctionnement de notre cerveau.**
+**Dans la pièce de théâtre la plus célèbre de Marivaux “[Le jeu de l'amour et du hasard](https://fr.wikipedia.org/wiki/Le_Jeu_de_l'amour_et_du_hasard)”, l'auteur joue à inverser le rôle des personnages, et le hasard est invité à guider leurs destins. De la même façon, notre cerveau est quotidiennement confronté au hasard, aussi bien dans une loterie que dans les incertitudes et ambiguïtés révélées dans les illusions d'optique. Au point que l'on peut attribuer à un esprit malin le fait que la tartine tombe du côté de la confiture, ou que la fiche du câble USB soit toujours dans le mauvais sens. Le hasard s'invite ainsi comme un personnage à part entière, et on peut s'interroger du rôle que celui-ci peut jouer dans le fonctionnement de notre cerveau.**
 
 
 # Les loteries jouent avec notre cerveau
@@ -93,9 +93,9 @@ Entre pari sportif, jeu en ligne, carte à gratter et loterie multimillionnaire,
 
 Pourtant, notre cerveau nous pousse à nous abandonner à ce plaisir irrationnel. En théorie, les règles sont préétablies et avec le hasard comme seul arbitre, on peut prédire les gains à long terme, et certains jeux sont plus justes que d'autres. On trouve parfois au détour d'un journal une rubrique qui conseille sur des stratégies à adopter pour maximiser ses chances de gagner. Pour la loterie nationale par exemple on peut trouver des guides qui répertorient les derniers numéros sortis du mois. En suivant une prétendue “loi des séries”, il faudrait jouer de préférence ces numéros qui sont plus “actifs".
 
-Avec un minimum de recul, on peut se rendre compte que ces stratégies n'ont aucun fondement. Pour cet exemple particulier, tout est mis en œuvre à la loterie nationale pour que le tirage des boules un jour donné soit complètement indépendant de celui qui est fait le jour suivant. Même s'il est arrivé récemment qu'une loterie en Afrique du Sud donne la série des nombres consécutifs 5, 6, 7, 8 et 9, on peut justifier mathématiquement que de telles séries peuvent bien apparaître et qu'elles s'expliquent entièrement par une série de coïncidences. C'est extrêmement rare, mais d'un autre côté nécessaire car tous les tirages sont possibles, y compris les plus surprenants. 
+Avec un minimum de recul, on peut se rendre compte que ces stratégies n'ont aucun fondement. Pour cet exemple particulier, tout est mis en œuvre à la loterie nationale pour que le tirage des boules un jour donné soit complètement indépendant de celui qui est fait le jour suivant. Même s'il est arrivé récemment qu'une loterie en Afrique du Sud donne la série des nombres consécutifs 5, 6, 7, 8 et 9, on peut justifier mathématiquement que de telles séries peuvent bien apparaître et qu'elles s'expliquent entièrement par une série de coïncidences. C'est extrêmement rare, mais d'un autre côté nécessaire car à la longue, tous les tirages sont possibles, y compris les plus surprenants. 
 
-Le fait qu'on les trouve surprenants révèle en fait plutôt un biais cognitif sur notre perception du hasard, trace de croyances souvent inconscientes. De façon opportuniste, on en déduit que l'on peut effectivement tirer une stratégie de gain, une sorte de martingale infaillible. Il suffit en effet simplement de connaître ces biais cognitifs et de jouer… l'inverse ! Dans le loto par exemple, beaucoup jouent leur date de naissance. On peut en déduire que sur les 49 numéros possibles, il vaut mieux jouer un nombre supérieur à 31. Comme on sait que les nombres tombent _a priori_ avec la même fréquence, pour une même probabilité de réussite, les personnes qui suivent le biais cognitif des dates de naissance ne les joueront pas: ces dates auront moins de gagnants et on peut espérer se partager un gain plus important.
+Le fait qu'on les trouve surprenants révèle en fait un biais cognitif sur notre perception du hasard, trace de croyances souvent inconscientes. De façon opportuniste, on en déduit que l'on peut effectivement tirer une stratégie de gain, une sorte de martingale infaillible. Il suffit en effet simplement de connaître ces biais cognitifs et de jouer… l'inverse ! Dans le loto par exemple, beaucoup jouent leur date de naissance. On peut en déduire que sur les 49 numéros possibles, il vaut mieux jouer un nombre supérieur à 31. Comme on sait que les nombres tombent _a priori_ avec la même fréquence, pour une même probabilité de réussite, les personnes qui suivent le biais cognitif des dates de naissance ne les joueront pas: ces dates auront moins de gagnants et on peut espérer se partager un gain plus important.
 
 ![
 **Notre cerveau crée des formes dans le bruit.**
