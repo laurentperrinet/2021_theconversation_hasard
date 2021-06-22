@@ -5,7 +5,7 @@ keywords:
 - Hasard
 - Perception
 lang: fr
-date-meta: '2021-06-21'
+date-meta: '2021-06-22'
 author-meta:
 - Laurent U Perrinet
 header-includes: |-
@@ -18,8 +18,8 @@ header-includes: |-
   <meta name="citation_title" content="Le jeu du cerveau et du hasard" />
   <meta property="og:title" content="Le jeu du cerveau et du hasard" />
   <meta property="twitter:title" content="Le jeu du cerveau et du hasard" />
-  <meta name="dc.date" content="2021-06-21" />
-  <meta name="citation_publication_date" content="2021-06-21" />
+  <meta name="dc.date" content="2021-06-22" />
+  <meta name="citation_publication_date" content="2021-06-22" />
   <meta name="dc.language" content="fr" />
   <meta name="citation_language" content="fr" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/cd94cc237a2578f9c5238d9537003853ca267bd6/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/cd94cc237a2578f9c5238d9537003853ca267bd6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/cd94cc237a2578f9c5238d9537003853ca267bd6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/b366d5e3131ab6c5dd806658e225df5d7101e297/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/b366d5e3131ab6c5dd806658e225df5d7101e297/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/b366d5e3131ab6c5dd806658e225df5d7101e297/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,10 +59,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/cd94cc237a2578f9c5238d9537003853ca267bd6/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/b366d5e3131ab6c5dd806658e225df5d7101e297/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@cd94cc2](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/cd94cc237a2578f9c5238d9537003853ca267bd6)
-on June 21, 2021.
+from [laurentperrinet/2021_theconversation_hasard@b366d5e](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/b366d5e3131ab6c5dd806658e225df5d7101e297)
+on June 22, 2021.
 </em></small>
 
 ## Authors
@@ -84,7 +84,7 @@ on June 21, 2021.
 
 
 
-**Dans la pièce de théâtre la plus célèbre de Marivaux “[Le jeu de l'amour et du hasard](https://fr.wikipedia.org/wiki/Le_Jeu_de_l'amour_et_du_hasard)”, l'auteur joue à inverser le rôle des personnages, et le hasard est invité à guider leurs destins. De la même façon, notre cerveau est quotidiennement confronté au hasard, aussi bien dans une loterie que dans les incertitudes et ambiguïtés révélées dans les illusions d'optique. Au point que l'on peut attribuer à un esprit malin le fait que la tartine tombe du côté de la confiture, ou que la fiche du câble USB soit toujours dans le mauvais sens. Le hasard s'invite ainsi comme un personnage à part entière, et on peut s'interroger du rôle que celui-ci peut jouer dans le fonctionnement de notre cerveau.**
+**Dans la pièce de théâtre la plus célèbre de Marivaux “[Le jeu de l'amour et du hasard](https://fr.wikipedia.org/wiki/Le_Jeu_de_l'amour_et_du_hasard)”, l'auteur joue à inverser le rôle des personnages, et le hasard est invité à guider leurs destins. De la même façon, notre cerveau est balloté au gré du hasard, aussi bien dans une loterie que dans les incertitudes et ambiguïtés révélées dans les illusions d'optique. Au point que l'on peut attribuer à un esprit malin le fait que la tartine tombe du côté de la confiture, ou que la fiche du câble USB soit toujours dans le mauvais sens. Le hasard s'invite ainsi comme un personnage à part entière, et on peut s'interroger du rôle que celui-ci peut jouer dans le fonctionnement de notre cerveau.**
 
 
 # Les loteries jouent avec notre cerveau
