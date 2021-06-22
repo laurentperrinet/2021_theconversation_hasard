@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/56c99d982f680265681794b03e84eaa837dff788/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/56c99d982f680265681794b03e84eaa837dff788/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/56c99d982f680265681794b03e84eaa837dff788/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/56c99d982f680265681794b03e84eaa837dff788/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@56c99d9](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/56c99d982f680265681794b03e84eaa837dff788)
+from [laurentperrinet/2021_theconversation_hasard@6cafb62](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/6cafb62a7c43b78662084fddf96f70f897ee7b2d)
 on June 22, 2021.
 </em></small>
 
@@ -137,8 +137,8 @@ Pour étendre la portée de ces expériences fondatrices des neurosciences de la
 
 ![
 **L'orientation et sa précision dans une image naturelle.**
-Différentes zones de cette image naturelle (© Hugo Ladret) peuvent correspondre à différentes orientations préférées, comme indiqué dans les histogrammes regroupant le pourcentage d'occurence des différents angles détectés dans chaque zone. Une autre caractéristique importante et la précision de cette information qui est soit large pour des textures (la terre, le feuillage) ou plus précise (les reflets dans l'eau). On peut reproduire cette richesse en utilisant des images synthétiques de textures avec une précision plus ou moins fine (à gauche) ou large (à droite).
-](https://www.biorxiv.org/content/biorxiv/early/2021/03/30/2021.03.30.437692/F7.large.jpg?width=800&height=600&carousel=1 "OBV1"){#fig:obv1}
+L'orientation peut avoir différentes précisions dans différentes zones. Dans une image naturelle (© Hugo Ladret) nous avons extrait une zone correspondant à une surface d'eau qui montre une distribution serrée des orientations autour d'une orientation principale proche de l'horizontale. Dans une autre zone correspondant à du feuillage, l'orientation principale est similaire mais beaucoup plus dispersée: l'orientation est moins précise.
+](images/sup_1_hog_synth.png "OBV1"){#fig:obv1}
 
 
 Cette nouvelle dimension permet par exemple de distinguer ce qui est dessiné par le contour net d'un objet visuel (comme l'objet sur la figure @fig:obv1) par rapport à la texture d'un objet pour laquelle la précision est moindre (comme la texture à droite de la figure @fig:obv1).  Ces expériences de neurophysiologie ont révélé que l'activité de la population de neurones construit progressivement une représentation de l'orientation mais aussi de sa précision [@doi:10.1101/2021.03.30.437692]. Nos résultats indiquent aussi que les neurones communiquent entre eux différentiellement en fonction de cette précision. 
