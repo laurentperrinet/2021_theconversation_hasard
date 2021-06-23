@@ -7,11 +7,11 @@
       "Perception"
     ],
     "lang": "fr",
-    "date-meta": "2021-06-22",
+    "date-meta": "2021-06-23",
     "author-meta": [
       "Laurent U Perrinet"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Le jeu du cerveau et du hasard\" />\n<meta name=\"citation_title\" content=\"Le jeu du cerveau et du hasard\" />\n<meta property=\"og:title\" content=\"Le jeu du cerveau et du hasard\" />\n<meta property=\"twitter:title\" content=\"Le jeu du cerveau et du hasard\" />\n<meta name=\"dc.date\" content=\"2021-06-22\" />\n<meta name=\"citation_publication_date\" content=\"2021-06-22\" />\n<meta name=\"dc.language\" content=\"fr\" />\n<meta name=\"citation_language\" content=\"fr\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Laurent U Perrinet\" />\n<meta name=\"citation_author_institution\" content=\"Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9536-010X\" />\n<meta name=\"twitter:creator\" content=\"@laurentperrinet\" />\n<link rel=\"canonical\" href=\"https://laurentperrinet.github.io/2021_theconversation_hasard/\" />\n<meta property=\"og:url\" content=\"https://laurentperrinet.github.io/2021_theconversation_hasard/\" />\n<meta property=\"twitter:url\" content=\"https://laurentperrinet.github.io/2021_theconversation_hasard/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://laurentperrinet.github.io/2021_theconversation_hasard/\" />\n<meta name=\"citation_pdf_url\" content=\"https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Le jeu du cerveau et du hasard\" />\n<meta name=\"citation_title\" content=\"Le jeu du cerveau et du hasard\" />\n<meta property=\"og:title\" content=\"Le jeu du cerveau et du hasard\" />\n<meta property=\"twitter:title\" content=\"Le jeu du cerveau et du hasard\" />\n<meta name=\"dc.date\" content=\"2021-06-23\" />\n<meta name=\"citation_publication_date\" content=\"2021-06-23\" />\n<meta name=\"dc.language\" content=\"fr\" />\n<meta name=\"citation_language\" content=\"fr\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Laurent U Perrinet\" />\n<meta name=\"citation_author_institution\" content=\"Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9536-010X\" />\n<meta name=\"twitter:creator\" content=\"@laurentperrinet\" />\n<link rel=\"canonical\" href=\"https://laurentperrinet.github.io/2021_theconversation_hasard/\" />\n<meta property=\"og:url\" content=\"https://laurentperrinet.github.io/2021_theconversation_hasard/\" />\n<meta property=\"twitter:url\" content=\"https://laurentperrinet.github.io/2021_theconversation_hasard/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://laurentperrinet.github.io/2021_theconversation_hasard/\" />\n<meta name=\"citation_pdf_url\" content=\"https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://laurentperrinet.github.io/2021_theconversation_hasard/v/4c894eb7950b6ec8088b9de12c0b703a480ac46d/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://laurentperrinet.github.io/2021_theconversation_hasard/v/4c894eb7950b6ec8088b9de12c0b703a480ac46d/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://laurentperrinet.github.io/2021_theconversation_hasard/v/4c894eb7950b6ec8088b9de12c0b703a480ac46d/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [],
     "manubot-output-bibliography": "output/references.json",
     "manubot-output-citekeys": "output/citations.tsv",
@@ -19,7 +19,7 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "June 22, 2021",
+    "date": "June 23, 2021",
     "authors": [
       {
         "github": "laurentperrinet",
@@ -52,19 +52,19 @@
       "repo_slug": "laurentperrinet/2021_theconversation_hasard",
       "repo_owner": "laurentperrinet",
       "repo_name": "2021_theconversation_hasard",
-      "commit": "6cafb62a7c43b78662084fddf96f70f897ee7b2d",
-      "triggering_commit": "6cafb62a7c43b78662084fddf96f70f897ee7b2d",
-      "build_url": "https://github.com/laurentperrinet/2021_theconversation_hasard/commit/6cafb62a7c43b78662084fddf96f70f897ee7b2d/checks",
+      "commit": "4c894eb7950b6ec8088b9de12c0b703a480ac46d",
+      "triggering_commit": "4c894eb7950b6ec8088b9de12c0b703a480ac46d",
+      "build_url": "https://github.com/laurentperrinet/2021_theconversation_hasard/commit/4c894eb7950b6ec8088b9de12c0b703a480ac46d/checks",
       "job_url": "https://github.com/laurentperrinet/2021_theconversation_hasard/runs/run3"
     },
     "html_url": "https://laurentperrinet.github.io/2021_theconversation_hasard/",
     "pdf_url": "https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf",
-    "html_url_versioned": "https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/",
-    "pdf_url_versioned": "https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/manuscript.pdf",
+    "html_url_versioned": "https://laurentperrinet.github.io/2021_theconversation_hasard/v/4c894eb7950b6ec8088b9de12c0b703a480ac46d/",
+    "pdf_url_versioned": "https://laurentperrinet.github.io/2021_theconversation_hasard/v/4c894eb7950b6ec8088b9de12c0b703a480ac46d/manuscript.pdf",
     "manubot_version": "0.5.0",
     "rootstock_commit": "2191d929a12a233347ee79c673b8f2971c10e6dd",
     "manuscript_stats": {
-      "word_count": 2903
+      "word_count": 2905
     }
   },
   "sectionsDepth": -1,

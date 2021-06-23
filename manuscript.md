@@ -5,7 +5,7 @@ keywords:
 - Hasard
 - Perception
 lang: fr
-date-meta: '2021-06-22'
+date-meta: '2021-06-23'
 author-meta:
 - Laurent U Perrinet
 header-includes: |-
@@ -18,8 +18,8 @@ header-includes: |-
   <meta name="citation_title" content="Le jeu du cerveau et du hasard" />
   <meta property="og:title" content="Le jeu du cerveau et du hasard" />
   <meta property="twitter:title" content="Le jeu du cerveau et du hasard" />
-  <meta name="dc.date" content="2021-06-22" />
-  <meta name="citation_publication_date" content="2021-06-22" />
+  <meta name="dc.date" content="2021-06-23" />
+  <meta name="citation_publication_date" content="2021-06-23" />
   <meta name="dc.language" content="fr" />
   <meta name="citation_language" content="fr" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/4c894eb7950b6ec8088b9de12c0b703a480ac46d/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/4c894eb7950b6ec8088b9de12c0b703a480ac46d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/4c894eb7950b6ec8088b9de12c0b703a480ac46d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,10 +59,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/6cafb62a7c43b78662084fddf96f70f897ee7b2d/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/4c894eb7950b6ec8088b9de12c0b703a480ac46d/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@6cafb62](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/6cafb62a7c43b78662084fddf96f70f897ee7b2d)
-on June 22, 2021.
+from [laurentperrinet/2021_theconversation_hasard@4c894eb](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/4c894eb7950b6ec8088b9de12c0b703a480ac46d)
+on June 23, 2021.
 </em></small>
 
 ## Authors
@@ -121,7 +121,7 @@ L'étude des différentes stratégies révélées dans ces comportements d'explo
 
 # Du hasard aux croyances
 
-Les biais cognitifs ne se révèlent pas seulement dans les statistiques sur des fréquences d'occurrence d'événements comme celles rencontrées dans la loterie, et le cerveau semble manipuler des croyances complexes sur son environnement. Mais dans ce contexte, qu'est qu'une croyance?
+Les biais cognitifs ne se révèlent pas seulement dans les statistiques sur des fréquences d'occurrence d'événements comme celles rencontrées dans la loterie, et le cerveau semble manipuler des croyances complexes sur son environnement. Mais dans ce contexte, qu'est qu'une croyance ?
 
 Une contribution majeure d'[Antoine-Augustin Cournot](https://fr.wikipedia.org/wiki/Antoine-Augustin_Cournot) est d'avoir démystifié une origine du hasard qui permet de mieux comprendre cette notion. Économiste, il étudiait durant le XIX<sup>e</sup> siècle des processus d'établissement de monopoles économiques. S'interrogeant sur les aléas perturbant ses données expérimentales, il fit cette proposition simple. Si au lieu d'être un processus autonome, comme on en fait l'hypothèse dans les mécanismes quantiques, n'est-ce pas l'ignorance de l'observateur sur l'origine des données qui crée cette impression de hasard ? En observant deux joueurs de go et qu'on ignore tout des règles du jeu, on va avoir l'impression que les coups sont joués au hasard, alors que ce jeu ne fait aucunement intervenir la chance mais un haut niveau de stratégie. Dans cette perspective, le hasard peut émerger de processus bien déterministes quand l'observateur ignore tout des interactions entre ces processus. Une croyance est dans ce contexte une mesure de cette ignorance.
 
@@ -131,7 +131,7 @@ Au niveau théorique, une branche entière des mathématiques, la théorie des p
 
 # Un processus dynamique
 
-Récemment, et nous avons pu directement interroger des neurones biologiques sur cette hypothèse. Nous nous sommes concentrés sur le cortex visuel primaire, une région sur la surface du cerveau qui est essentielle pour la vision. Depuis les expériences de Hubel et Wiesel [@doi:10.1113/jphysiol.1959.sp006308], on sait que les neurones de cette région répondent à l'orientation des contours dans l'image, par exemple celle d'une barre qui serait présentée devant nos yeux. 
+Récemment, nous avons été en mesure d'interroger directement des neurones biologiques sur cette hypothèse. Nous nous sommes concentrés sur le cortex visuel primaire, une région sur la surface du cerveau qui est essentielle pour la vision. Depuis les expériences de Hubel et Wiesel [@doi:10.1113/jphysiol.1959.sp006308], on sait que les neurones de cette région répondent à l'orientation des contours dans l'image, par exemple celle d'une barre qui serait présentée devant nos yeux.
 
 Pour étendre la portée de ces expériences fondatrices des neurosciences de la vision, nous avons synthétisé des stimulations visuelles dans laquelle nous manipulons explicitement la précision de cette orientation (voir Figure @fig:obv1). Ainsi nous ajoutons aux images une nouvelle dimension qui représente le fait qu'un objet visuel peut être plus ou moins orienté en modifiant la précision de cette orientation qui peut ainsi être transformée depuis une barre parfaitement orientée, à une orientation plus naturelle jusqu'à une texture non orientée.
 
@@ -141,7 +141,7 @@ L'orientation peut avoir différentes précisions dans différentes zones. Dans 
 ](images/sup_1_hog_synth.png "OBV1"){#fig:obv1}
 
 
-Cette nouvelle dimension permet par exemple de distinguer ce qui est dessiné par le contour net d'un objet visuel (comme l'objet sur la figure @fig:obv1) par rapport à la texture d'un objet pour laquelle la précision est moindre (comme la texture à droite de la figure @fig:obv1).  Ces expériences de neurophysiologie ont révélé que l'activité de la population de neurones construit progressivement une représentation de l'orientation mais aussi de sa précision [@doi:10.1101/2021.03.30.437692]. Nos résultats indiquent aussi que les neurones communiquent entre eux différentiellement en fonction de cette précision. 
+Cette nouvelle dimension permet par exemple de distinguer ce qui est dessiné par le contour net d'un objet visuel (comme l'objet sur la figure @fig:obv1) par rapport à la texture d'un objet pour laquelle la précision est moindre (comme la texture à droite de la figure @fig:obv1).  Ces expériences de neurophysiologie ont révélé que l'activité de la population de neurones construit progressivement une représentation de l'orientation mais aussi de sa précision [@doi:10.1101/2021.03.30.437692]. Nos résultats indiquent aussi que les neurones communiquent entre eux différentiellement en fonction de cette précision.
 
 Pour comprendre ce mécanisme dynamique, on peut imaginer qu'à la manière d'un peintre ajustant une touche de peinture sur son œuvre, la représentation de notre environnement visuel se construit progressivement. Les informations sont intégrées avec des poids qui correspondent à la précision de chaque élément de l'image. Dans le futur, de nouvelles expériences sont nécessaires pour mieux comprendre ces mécanismes. Nous souhaitons notamment comprendre comment nous intégrons les informations de manière dynamique, dans le flux incessant de stimuli auxquels notre système sensoriel est confronté.
 
