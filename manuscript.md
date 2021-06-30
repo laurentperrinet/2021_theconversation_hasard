@@ -5,7 +5,7 @@ keywords:
 - Hasard
 - Perception
 lang: fr
-date-meta: '2021-06-23'
+date-meta: '2021-06-30'
 author-meta:
 - Laurent U Perrinet
 header-includes: |-
@@ -18,8 +18,8 @@ header-includes: |-
   <meta name="citation_title" content="Le jeu du cerveau et du hasard" />
   <meta property="og:title" content="Le jeu du cerveau et du hasard" />
   <meta property="twitter:title" content="Le jeu du cerveau et du hasard" />
-  <meta name="dc.date" content="2021-06-23" />
-  <meta name="citation_publication_date" content="2021-06-23" />
+  <meta name="dc.date" content="2021-06-30" />
+  <meta name="citation_publication_date" content="2021-06-30" />
   <meta name="dc.language" content="fr" />
   <meta name="citation_language" content="fr" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/7def8d6e1e7d258e518d23e349da50ea0d6d4715/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/7def8d6e1e7d258e518d23e349da50ea0d6d4715/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/7def8d6e1e7d258e518d23e349da50ea0d6d4715/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/fbbb096d21293d1a8b909e03050c706343fe63af/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/fbbb096d21293d1a8b909e03050c706343fe63af/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/fbbb096d21293d1a8b909e03050c706343fe63af/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,10 +59,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/7def8d6e1e7d258e518d23e349da50ea0d6d4715/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/fbbb096d21293d1a8b909e03050c706343fe63af/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@7def8d6](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/7def8d6e1e7d258e518d23e349da50ea0d6d4715)
-on June 23, 2021.
+from [laurentperrinet/2021_theconversation_hasard@fbbb096](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/fbbb096d21293d1a8b909e03050c706343fe63af)
+on June 30, 2021.
 </em></small>
 
 ## Authors
@@ -123,27 +123,34 @@ L'étude des différentes stratégies révélées dans ces comportements d'explo
 
 Les biais cognitifs ne se révèlent pas seulement dans les statistiques sur des fréquences d'occurrence d'événements comme celles rencontrées dans la loterie, et le cerveau semble manipuler des croyances complexes sur son environnement. Mais dans ce contexte, qu'est qu'une croyance ?
 
-Une contribution majeure d'[Antoine-Augustin Cournot](https://fr.wikipedia.org/wiki/Antoine-Augustin_Cournot) est d'avoir démystifié une origine du hasard qui permet de mieux comprendre cette notion. Économiste, il étudiait durant le XIX<sup>e</sup> siècle des processus d'établissement de monopoles économiques. S'interrogeant sur les aléas perturbant ses données expérimentales, il fit cette proposition simple. Si au lieu d'être un processus autonome, comme on en fait l'hypothèse dans les mécanismes quantiques, n'est-ce pas l'ignorance de l'observateur sur l'origine des données qui crée cette impression de hasard ? En observant deux joueurs de go et qu'on ignore tout des règles du jeu, on va avoir l'impression que les coups sont joués au hasard, alors que ce jeu ne fait aucunement intervenir la chance mais un haut niveau de stratégie. Dans cette perspective, le hasard peut émerger de processus bien déterministes quand l'observateur ignore tout des interactions entre ces processus. Une croyance est dans ce contexte une mesure de cette ignorance.
+Une contribution majeure d'[Antoine-Augustin Cournot](https://fr.wikipedia.org/wiki/Antoine-Augustin_Cournot) est d'avoir démystifié une origine du hasard qui permet de mieux comprendre cette notion. Économiste, il étudiait durant le XIX<sup>e</sup> siècle des processus d'établissement de monopoles économiques. S'interrogeant sur les aléas perturbant ses données expérimentales, il fit cette proposition simple. Si au lieu d'être un processus autonome, comme on en fait l'hypothèse dans les mécanismes quantiques, n'est-ce pas l'ignorance de l'observateur sur l'origine des données qui crée cette impression de hasard ? 
 
-Ainsi, au lieu d'être passif vis-à-vis du hasard, notre cerveau a évolué pour manipuler ces croyances et pouvoir les intégrer en fonction de leurs précisions relatives. Toutefois, les mécanismes qui sont en jeu sont encore mal connus et bien éloignés de l'analogie que l'on peut faire entre intelligence biologique et l'intelligence artificielle que l'on construit dans les automates ou robots, ou encore plus récemment avec les ordinateurs ou l'apprentissage "profond". De plus, en attendant l'avènement d'une nouvelle génération d'ordinateurs quantiques, les ordinateurs classiques sont par construction déterministes et il n'y a pas de place pour le hasard. À l'opposé, notre cerveau utilise le hasard, et il arrive que des découvertes scientifiques peuvent être dues au hasard, ce qu'on appelle la "sérendipité". 
+Par exemple, si vous observez deux joueurs de go alors que vous ignorez tout des règles du jeu, vous aurez l’impression que les coups sont joués au hasard, alors que pour de joueurs expérimentés ce jeu ne fait aucunement intervenir la chance, mais un haut niveau de stratégie. Dans cette perspective, l’impression de hasard -- et donc sa gestion par notre cerveau -- peut être causée par des processus bien déterministes quand bien même l’observateur ignore les causes de leurs interactions. En miroir de l’impression de hasard, une «&nbsp;croyance&nbsp;» serait, dans ce contexte, une mesure d’un «&nbsp;degré d’évidence&nbsp;» de l’observateur sur ces connaissances.
 
-Au niveau théorique, une branche entière des mathématiques, la théorie des probabilités, considère les différentes manières de mesurer et manipuler une croyance. Par exemple, une mesure physique comme l'orientation d'un objet dans une scène visuelle est donnée par sa valeur moyenne mais aussi par sa dispersion autour de cette valeur moyenne. Cela permet d'affiner les algorithmes classiques d'intelligence artificielle et permet en particulier d'intégrer plusieurs croyances de sources différentes, en fonction de leurs précisions respectives. Est-ce qu'une telle théorie pourrait être à l'œuvre dans le cerveau ?
+Ainsi, au lieu d’être passif vis-à-vis du hasard, notre cerveau a dû évoluer pour manipuler ces «&nbsp;croyances&nbsp;», ou ces «&nbsp;interprétations a priori&nbsp;» de la situation à laquelle il fait face. Toutefois, les mécanismes biologiques qui sont en jeu sont mal connus et il existe encore une grande différence entre l’intelligence biologique révélée dans le cerveau et celle, artificielle, que l’on construit dans les automates ou robots, ou encore plus récemment avec les ordinateurs ou l’[apprentissage profond](https://theconversation.com/intelligence-artificielle-les-defis-de-lapprentissage-profond-111522). Il n’y a pour ces derniers pas de place pour le hasard alors qu’à l’opposé, notre cerveau utilise le hasard, et qu’il arrive que, par «&nbsp;[sérendipité](https://fr.wikipedia.org/wiki/S%C3%A9rendipit%C3%A9)&nbsp;», des découvertes scientifiques soient dues au hasard.
+
+Au niveau théorique, la théorie des probabilités, une branche des mathématiques, permet de définir une «&nbsp;croyance&nbsp;» comme un objet mathématique précis attribuant des probabilités aux différents événements possibles.
+
+Par exemple, imaginons que vous cherchiez à déterminer l’orientation des arbres dans une forêt&nbsp;: les troncs sont principalement orientés verticalement, mais quelques-uns sont penchés ou tordus. Équipée de notre outil théorique, cette mesure physique peut être représentée par la probabilité de vraisemblance de chacune des orientations possibles. Souvent, on peut représenter cette distribution de probabilités par sa valeur la plus probable et par la dispersion autour de cette valeur. Ce type de formalisation permet en particulier de manipuler différents degrés de «&nbsp;croyance&nbsp;» par des règles dites d’«&nbsp;[inférence](https://fr.wikipedia.org/wiki/Inf%C3%A9rence_bay%C3%A9sienne)».
+
+En pratique, cette notion permet d’affiner les algorithmes classiques d’intelligence artificielle et permet en particulier d’intégrer plusieurs distributions de probabilité de sources différentes. Par exemple, on peut inférer l’orientation d’un arbre à partir de fragments de son image, tout en donnant plus de poids à une information précise (par exemple l’image du bord de son tronc) par rapport à ce qui l’est moins (une vue du feuillage).
+
+Est-ce qu’un tel mécanisme pourrait être à l’œuvre dans le cerveau&nbsp;?
 
 # Un processus dynamique
 
-Récemment, nous avons été en mesure d'interroger directement des neurones biologiques sur cette hypothèse. Nous nous sommes concentrés sur le cortex visuel primaire, une région sur la surface du cerveau qui est essentielle pour la vision. Depuis les expériences de Hubel et Wiesel [@doi:10.1113/jphysiol.1959.sp006308], on sait que les neurones de cette région répondent à l'orientation des contours dans l'image, par exemple celle d'une barre qui serait présentée devant nos yeux.
+Récemment, nous avons pu directement interroger des neurones biologiques sur cette hypothèse. Nous nous sommes concentrés sur le cortex visuel primaire, une région sur la surface du cerveau qui est essentielle pour la vision. Depuis les expériences de Hubel et Wiesel[@doi:10.1113/jphysiol.1959.sp006308], on sait que les neurones de cette région répondent préférentiellement à l’orientation des contours dans l’image, par exemple celle d’une barre lumineuse qui serait présentée devant nos yeux.
 
-Pour étendre la portée de ces expériences fondatrices des neurosciences de la vision, nous avons synthétisé des stimulations visuelles dans laquelle nous manipulons explicitement la précision de cette orientation (voir Figure @fig:obv1). Ainsi nous ajoutons aux images une nouvelle dimension qui représente le fait qu'un objet visuel peut être plus ou moins orienté en modifiant la précision de cette orientation qui peut ainsi être transformée depuis une barre parfaitement orientée, à une orientation plus naturelle jusqu'à une texture non orientée.
+Pour étendre la portée de ces expériences fondatrices des neurosciences de la vision, nous avons synthétisé des stimulations visuelles dans lesquelles nous manipulons explicitement la précision de cette orientation, comme sur les photos de l’image ci-dessous. Ainsi nous ajoutons aux images une nouvelle dimension qui représente le fait qu’un objet visuel peut être plus ou moins orienté en modifiant la précision de cette orientation. Celle-ci peut ainsi être transformée depuis une barre parfaitement orientée, à une orientation intermédiaire jusqu’à une texture totalement non orientée.
 
 ![
 **L'orientation et sa précision dans une image naturelle.**
 L'orientation peut avoir différentes précisions dans différentes zones. Dans une image naturelle (© Hugo Ladret) nous avons extrait une zone correspondant à une surface d'eau qui montre une distribution serrée des orientations autour d'une orientation principale proche de l'horizontale. Dans une autre zone correspondant à du feuillage, l'orientation principale est similaire mais beaucoup plus dispersée: l'orientation est moins précise.
 ](images/sup_1_hog_synth.png "OBV1"){#fig:obv1}
 
+Cette nouvelle dimension permet par exemple de distinguer ce qui est dessiné par le contour net d’un objet visuel par rapport à la texture d’un objet pour laquelle la précision est moindre (comme la texture à droite de l’image). Ces expériences de neurophysiologie [@doi:10.1101/2021.03.30.437692] ont révélé que lorsque l’on présente ces stimulations, l’activité de la population de neurones construit graduellement une représentation de l’orientation, mais aussi de sa précision, donc du degré de croyance sur cette orientation. Nos résultats indiquent aussi que les neurones communiquent entre eux différentiellement en fonction de cette précision, notamment qu’une précision moins fine intègre son information plus lentement.
 
-Cette nouvelle dimension permet par exemple de distinguer ce qui est dessiné par le contour net d'un objet visuel (comme l'objet sur la figure @fig:obv1) par rapport à la texture d'un objet pour laquelle la précision est moindre (comme la texture à droite de la figure @fig:obv1).  Ces expériences de neurophysiologie ont révélé que l'activité de la population de neurones construit progressivement une représentation de l'orientation mais aussi de sa précision [@doi:10.1101/2021.03.30.437692]. Nos résultats indiquent aussi que les neurones communiquent entre eux différentiellement en fonction de cette précision.
-
-Pour comprendre ce mécanisme dynamique, on peut imaginer qu'à la manière d'un peintre ajustant une touche de peinture sur son œuvre, la représentation de notre environnement visuel se construit progressivement. Les informations sont intégrées avec des poids qui correspondent à la précision de chaque élément de l'image. Dans le futur, de nouvelles expériences sont nécessaires pour mieux comprendre ces mécanismes. Nous souhaitons notamment comprendre comment nous intégrons les informations de manière dynamique, dans le flux incessant de stimuli auxquels notre système sensoriel est confronté.
+Pour comprendre intuitivement ce mécanisme dynamique, on peut imaginer qu’à la manière d’un peintre ajustant une touche de peinture sur son œuvre, la représentation globale de notre environnement visuel se construit progressivement à partir de ces fragments. Dans le futur, de nouvelles expériences sont nécessaires pour mieux comprendre ces mécanismes. Nous souhaitons en particulier comprendre comment nous intégrons les informations de manière dynamique, dans le flux incessant des stimuli que notre système sensoriel doit traiter.
 
 
 # De l'utilité du hasard
