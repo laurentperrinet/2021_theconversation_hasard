@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/gh-pages) branch hosts the contents of this directory at <https://laurentperrinet.github.io/2021_theconversation_hasard/>.
-The permalink for this webpage version is <https://laurentperrinet.github.io/2021_theconversation_hasard/v/fbbb096d21293d1a8b909e03050c706343fe63af/>.
+The permalink for this webpage version is <https://laurentperrinet.github.io/2021_theconversation_hasard/v/bec82555040a91e21ffdd994871e511fee5d4308/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://laurentperrinet.github.io/2021_theconversation_hasard/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`fbbb096d21293d1a8b909e03050c706343fe63af`](https://github.com/laurentperrinet/2021_theconversation_hasard/commit/fbbb096d21293d1a8b909e03050c706343fe63af).
+[`bec82555040a91e21ffdd994871e511fee5d4308`](https://github.com/laurentperrinet/2021_theconversation_hasard/commit/bec82555040a91e21ffdd994871e511fee5d4308).
