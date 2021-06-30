@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/6c10d69b4b345533386be9db0ff8a541685609ac/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/6c10d69b4b345533386be9db0ff8a541685609ac/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/6c10d69b4b345533386be9db0ff8a541685609ac/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/71322d38d8a82d47bc5b3dca3ed49ecb42834575/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/71322d38d8a82d47bc5b3dca3ed49ecb42834575/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/71322d38d8a82d47bc5b3dca3ed49ecb42834575/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/6c10d69b4b345533386be9db0ff8a541685609ac/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/71322d38d8a82d47bc5b3dca3ed49ecb42834575/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@6c10d69](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/6c10d69b4b345533386be9db0ff8a541685609ac)
+from [laurentperrinet/2021_theconversation_hasard@71322d3](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/71322d38d8a82d47bc5b3dca3ed49ecb42834575)
 on June 30, 2021.
 </em></small>
 
@@ -153,9 +153,9 @@ Pour comprendre intuitivement ce mécanisme dynamique, on peut imaginer qu’à 
 
 # De l'utilité du hasard
 
-Pour conclure, nous avons invoqué le hasard pour mieux comprendre le cerveau. Même s'il peut être une source de confusion, c'est un mécanisme face auquel le cerveau ne reste pas passif, et il constitue une notion centrale pour donner du sens aux mécanismes complexes qui ont lieu dans le cerveau. 
+Pour conclure, nous avons invoqué le hasard pour mieux comprendre le cerveau. Même s’il peut être une source de confusion, c’est un mécanisme face auquel le cerveau ne reste pas passif, et il constitue une notion centrale pour donner du sens aux mécanismes complexes qui y ont lieu.
 
-Ainsi, une meilleure connaissance du hasard permet l'intégration optimale des “bits” d'information distribués dans notre cerveau, conduisant éventuellementy à une conscience unifiée du monde qui nous environne. À ce titre, il semble prometteur de rajouter cette nouvelle dimension aux futurs algorithmes d'intelligence artificielle. En écho à la comédie de Marivaux, espérons que le hasard permettra d'unir neurosciences et informatique pour mieux comprendre l'intelligence.
+Ainsi, une meilleure connaissance du hasard permet l’intégration optimale des «&nbsp;bits&nbsp;» d’information distribués dans notre cerveau et conduisant éventuellement à une conscience unifiée du monde qui nous environne. En écho à la comédie de Marivaux, espérons que le hasard permette d’unir neurosciences et informatique pour mieux comprendre l’intelligence. 
 
 ## References {.page_break_before}
 
