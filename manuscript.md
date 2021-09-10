@@ -5,7 +5,7 @@ keywords:
 - Hasard
 - Perception
 lang: fr
-date-meta: '2021-06-30'
+date-meta: '2021-09-10'
 author-meta:
 - Laurent U Perrinet
 header-includes: |-
@@ -18,8 +18,8 @@ header-includes: |-
   <meta name="citation_title" content="Le jeu du cerveau et du hasard" />
   <meta property="og:title" content="Le jeu du cerveau et du hasard" />
   <meta property="twitter:title" content="Le jeu du cerveau et du hasard" />
-  <meta name="dc.date" content="2021-06-30" />
-  <meta name="citation_publication_date" content="2021-06-30" />
+  <meta name="dc.date" content="2021-09-10" />
+  <meta name="citation_publication_date" content="2021-09-10" />
   <meta name="dc.language" content="fr" />
   <meta name="citation_language" content="fr" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2021_theconversation_hasard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/71322d38d8a82d47bc5b3dca3ed49ecb42834575/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/71322d38d8a82d47bc5b3dca3ed49ecb42834575/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/71322d38d8a82d47bc5b3dca3ed49ecb42834575/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2021_theconversation_hasard/v/4b43602a8f349c82839b292ee4c2b308ca1a89e2/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/4b43602a8f349c82839b292ee4c2b308ca1a89e2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2021_theconversation_hasard/v/4b43602a8f349c82839b292ee4c2b308ca1a89e2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,10 +59,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/71322d38d8a82d47bc5b3dca3ed49ecb42834575/))
+([permalink](https://laurentperrinet.github.io/2021_theconversation_hasard/v/4b43602a8f349c82839b292ee4c2b308ca1a89e2/))
 was automatically generated
-from [laurentperrinet/2021_theconversation_hasard@71322d3](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/71322d38d8a82d47bc5b3dca3ed49ecb42834575)
-on June 30, 2021.
+from [laurentperrinet/2021_theconversation_hasard@4b43602](https://github.com/laurentperrinet/2021_theconversation_hasard/tree/4b43602a8f349c82839b292ee4c2b308ca1a89e2)
+on September 10, 2021.
 </em></small>
 
 ## Authors
